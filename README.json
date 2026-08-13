@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "3D Scene Understanding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generation and Mapping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Navigation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Planning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Statistics"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:32:12.723Z",
+    "original_repository": "dennisrotondi/awesome-3D-scene-graphs",
+    "original_repository_sha": "c8b792a8a4b82837f7330325d752914e671d578b",
+    "enhanced_repository": "enhansome/enhansome-3D-scene-graphs",
+    "enhanced_repository_description": null,
+    "title": "Awesome 3D Scene Graphs with stars"
+  }
+}
