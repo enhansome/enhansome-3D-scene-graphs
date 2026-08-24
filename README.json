@@ -1,7 +1,2408 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-05",
+          "description": "ACCV18 Visual graphs from motion (vgfm): Scene understanding with object geometry reasoning Italian Institute of Technology project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149286199,
+            "language": "Python",
+            "last_commit": "2019-01-12T15:54:40Z",
+            "owner": "paulgay",
+            "repo": "VGfM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-03",
+          "description": "MICCAI22 4D-OR: Semantic Scene Graphs for OR Domain Modeling TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460338503,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:14:21Z",
+            "owner": "egeozsoy",
+            "repo": "4D-OR",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-09",
+          "description": "ICRA23 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs ETH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536988035,
+            "language": "Python",
+            "last_commit": "2023-07-12T13:18:31Z",
+            "owner": "ethz-asl",
+            "repo": "3d_vsg",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-04",
+          "description": "ICCV23 SGAligner: 3D Scene Alignment with Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619569665,
+            "language": "Python",
+            "last_commit": "2026-02-03T15:40:44Z",
+            "owner": "sayands",
+            "repo": "sgaligner",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "CoRL23 Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs Rutgers project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695948030,
+            "language": "Python",
+            "last_commit": "2023-12-30T19:27:13Z",
+            "owner": "changhaonan",
+            "repo": "OVSG",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning UToronto project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698006618,
+            "language": "Python",
+            "last_commit": "2025-10-16T22:09:00Z",
+            "owner": "concept-graphs",
+            "repo": "concept-graphs",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-01",
+          "description": "IJCARS24 Holistic OR domain modeling: a semantic scene graph approach TUM github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460338503,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:14:21Z",
+            "owner": "egeozsoy",
+            "repo": "4D-OR",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RAL24 OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments BIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762638166,
+            "language": "Python",
+            "last_commit": "2025-12-03T12:10:30Z",
+            "owner": "BIT-DYN",
+            "repo": "OpenGraph",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "ECCV24 SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 734084577,
+            "language": "Python",
+            "last_commit": "2025-03-02T11:20:13Z",
+            "owner": "y9miao",
+            "repo": "VLSG",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RSS24 Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811868667,
+            "language": "Python",
+            "last_commit": "2026-01-19T08:58:18Z",
+            "owner": "hovsg",
+            "repo": "HOV-SG",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04",
+          "description": "RAL24 Clio: Real-time Task-Driven Open-Set 3D Scene Graphs MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 786544888,
+            "language": "Python",
+            "last_commit": "2025-09-01T14:57:43Z",
+            "owner": "MIT-SPARK",
+            "repo": "Clio",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05",
+          "description": "RAL24 Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791338950,
+            "language": "Python",
+            "last_commit": "2025-02-07T16:58:37Z",
+            "owner": "MIT-SPARK",
+            "repo": "LP2",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06",
+          "description": "NeurIPS24 SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models UCSD project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869405201,
+            "language": "Python",
+            "last_commit": "2024-12-14T23:41:03Z",
+            "owner": "AnjieCheng",
+            "repo": "SpatialRGPT",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06",
+          "description": "ICRA25 Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph MIPT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813076699,
+            "language": "Python",
+            "last_commit": "2025-07-16T09:51:25Z",
+            "owner": "linukc",
+            "repo": "BeyondBareQueries",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09",
+          "description": "HUMANOIDS25 SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783679014,
+            "language": "Python",
+            "last_commit": "2025-03-03T16:43:11Z",
+            "owner": "timengelbracht",
+            "repo": "Spot-Light",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11",
+          "description": "RAL25 Lost & Found: Tracking Changes from Egocentric Observations in 3D Dynamic Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893470941,
+            "language": "Python",
+            "last_commit": "2025-09-29T19:21:37Z",
+            "owner": "behretj",
+            "repo": "LostFound",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "CVPR25 Relationfield: Relate anything in radiance fields Bosch project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932728131,
+            "language": "Python",
+            "last_commit": "2025-03-20T12:48:49Z",
+            "owner": "boschresearch",
+            "repo": "RelationField",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "arXiv24 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding AIRI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887195808,
+            "language": "Python",
+            "last_commit": "2026-03-23T05:45:02Z",
+            "owner": "CognitiveAISystems",
+            "repo": "3DGraphLLM",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "AAAI25 TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances USYD github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814503314,
+            "language": "Python",
+            "last_commit": "2025-09-11T12:59:09Z",
+            "owner": "WentingXu3o3",
+            "repo": "TB-HSU",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02",
+          "description": "IROS25 DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation BIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936490981,
+            "language": "Python",
+            "last_commit": "2025-12-11T13:12:25Z",
+            "owner": "GeLuzhou",
+            "repo": "Dynamic-GSG",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "ICRA25 IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes CMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 857901344,
+            "language": "Python",
+            "last_commit": "2026-03-02T19:05:10Z",
+            "owner": "HaochenZ11",
+            "repo": "IRef-VLA",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007609163,
+            "language": "Python",
+            "last_commit": "2025-06-24T09:05:29Z",
+            "owner": "ZhangCYG",
+            "repo": "OpenFunGraph",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding BIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940982540,
+            "language": "Python",
+            "last_commit": "2025-03-14T13:02:18Z",
+            "owner": "WangXihan-bit",
+            "repo": "GaussianGraph",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941895239,
+            "language": "Python",
+            "last_commit": "2025-08-27T07:49:28Z",
+            "owner": "egeozsoy",
+            "repo": "MM-OR",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction UniStuttgart project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026271817,
+            "language": "Python",
+            "last_commit": "2025-10-11T00:01:49Z",
+            "owner": "dennisrotondi",
+            "repo": "FunGraph",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05",
+          "description": "NeurIPS25 EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 983141665,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-06T13:36:34Z",
+            "owner": "ardamamur",
+            "repo": "EgoExOR",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "arXiv25 Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph MIPT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965187832,
+            "language": "Python",
+            "last_commit": "2025-05-02T02:29:27Z",
+            "owner": "linukc",
+            "repo": "OVIGo-3DHSG",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "ICCV25 FROSS: Faster-than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images NTHU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892451716,
+            "language": "Python",
+            "last_commit": "2025-12-06T04:09:24Z",
+            "owner": "Howardkhh",
+            "repo": "FROSS",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "RAL25 Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations AALTO github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071639853,
+            "language": "Python",
+            "last_commit": "2026-05-12T11:56:15Z",
+            "owner": "aalto-intelligent-robotics",
+            "repo": "EGG",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "IROS25 OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions ITMO University project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946042219,
+            "language": "C++",
+            "last_commit": "2026-05-08T12:28:15Z",
+            "owner": "be2rlab",
+            "repo": "OSMa-Bench",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "TVCG25 SGSG: Stroke-Guided Scene Graph Generation BUAA github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030028256,
+            "language": "C#",
+            "last_commit": "2025-10-19T08:22:08Z",
+            "owner": "Sycamore-Ma",
+            "repo": "SGSG-runtime",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11",
+          "description": "CVPR26 Describe Anything Anywhere At Any Moment MIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1108540484,
+            "language": "Python",
+            "last_commit": "2026-04-14T15:40:55Z",
+            "owner": "MIT-SPARK",
+            "repo": "DAAAM",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11",
+          "description": "CVPR26 MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation XMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095719996,
+            "language": "Python",
+            "last_commit": "2026-03-23T12:08:57Z",
+            "owner": "ylwhxht",
+            "repo": "MSGNav",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03",
+          "description": "arXiv26 ToLL: Topological Layout Learning with Asymmetric Cross-View Structural Distillation for 3D Scene Graph Generation Pretraining UESTC github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105777022,
+            "language": "Python",
+            "last_commit": "2026-06-10T09:47:23Z",
+            "owner": "UESTC-nnLab",
+            "repo": "ToLL-SGG",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03",
+          "description": "arXiv26 OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding Shanghai Jiao Tong University github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1184071062,
+            "language": null,
+            "last_commit": "2026-03-18T07:05:59Z",
+            "owner": "IRMVLab",
+            "repo": "OGScene3D",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-04",
+          "description": "ACL26 CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models SUSTech github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199367884,
+            "language": "Python",
+            "last_commit": "2026-06-23T03:25:19Z",
+            "owner": "fz-zsl",
+            "repo": "CAPruner",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "arXiv26 Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation NWPU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1275257940,
+            "language": null,
+            "last_commit": "2026-06-26T06:18:25Z",
+            "owner": "Gineven",
+            "repo": "OAR",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07",
+          "description": "ECCV26 PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation LUH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1283904922,
+            "language": null,
+            "last_commit": "2026-08-10T09:38:40Z",
+            "owner": "yyyyangyi",
+            "repo": "PUF",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "3D Scene Understanding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-05",
+          "description": "ACCV18 Visual graphs from motion (vgfm): Scene understanding with object geometry reasoning Italian Institute of Technology project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149286199,
+            "language": "Python",
+            "last_commit": "2019-01-12T15:54:40Z",
+            "owner": "paulgay",
+            "repo": "VGfM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-08",
+          "description": "TOC19 3-D Scene Graph: A Sparse and Semantic Representation of Physical Environments for Intelligent Agents KAIST github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156166243,
+            "language": "Python",
+            "last_commit": "2019-08-11T09:35:22Z",
+            "owner": "Uehwan",
+            "repo": "3-D-Scene-Graph",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-10",
+          "description": "ICCV19 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera Stanford project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209860977,
+            "language": "Python",
+            "last_commit": "2024-06-28T04:44:57Z",
+            "owner": "StanfordVL",
+            "repo": "3DSceneGraph",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-04",
+          "description": "CVPR20 Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250762129,
+            "language": "CSS",
+            "last_commit": "2022-05-07T11:53:48Z",
+            "owner": "3DSSG",
+            "repo": "3DSSG.github.io",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-01",
+          "description": "IJRR21 Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208689257,
+            "language": null,
+            "last_commit": "2021-01-30T22:12:14Z",
+            "owner": "MIT-SPARK",
+            "repo": "Kimera",
+            "stars": 2118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-03",
+          "description": "CVPR21 Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis USYD project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366689759,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-23T19:52:58Z",
+            "owner": "chaoyivision",
+            "repo": "SGGpoint",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-03",
+          "description": "CVPR21 SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 364575916,
+            "language": "C++",
+            "last_commit": "2022-07-26T14:10:18Z",
+            "owner": "ShunChengWu",
+            "repo": "SceneGraphFusion",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-08",
+          "description": "ICRA22 Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460971095,
+            "language": "Python",
+            "last_commit": "2022-06-24T16:16:00Z",
+            "owner": "MIT-TESSE",
+            "repo": "dsg-rl",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-01",
+          "description": "RSS22 Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489133187,
+            "language": "C++",
+            "last_commit": "2026-08-24T01:42:27Z",
+            "owner": "MIT-SPARK",
+            "repo": "Hydra",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-02",
+          "description": "RAL22 Situational Graphs for Robot Navigation in Structured Indoor Environments UniLu project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760529742,
+            "language": "C++",
+            "last_commit": "2026-07-06T12:29:59Z",
+            "owner": "snt-arg",
+            "repo": "lidar_situational_graphs",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-03",
+          "description": "MICCAI22 4D-OR: Semantic Scene Graphs for OR Domain Modeling TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460338503,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:14:21Z",
+            "owner": "egeozsoy",
+            "repo": "4D-OR",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-09",
+          "description": "ICRA23 3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs ETH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536988035,
+            "language": "Python",
+            "last_commit": "2023-07-12T13:18:31Z",
+            "owner": "ethz-asl",
+            "repo": "3d_vsg",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-12",
+          "description": "RAL23 S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations UniLu project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 545085298,
+            "language": null,
+            "last_commit": "2024-04-18T05:29:25Z",
+            "owner": "snt-arg",
+            "repo": "s_graphs_docker",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-03",
+          "description": "AAAI24 SGFormer: Semantic Graph Transformer for Point Cloud-based 3D Scene Graph Generation BJUT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 731941083,
+            "language": "Python",
+            "last_commit": "2025-12-25T10:37:05Z",
+            "owner": "Andy20178",
+            "repo": "SGFormer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-03",
+          "description": "CVPR23 VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud BUAA github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608572281,
+            "language": "Python",
+            "last_commit": "2024-07-09T13:09:29Z",
+            "owner": "wz7in",
+            "repo": "CVPR2023-VLSAT",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-04",
+          "description": "ICCV23 SGAligner: 3D Scene Alignment with Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619569665,
+            "language": "Python",
+            "last_commit": "2026-02-03T15:40:44Z",
+            "owner": "sayands",
+            "repo": "sgaligner",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-05",
+          "description": "IJRR24 Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems MIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489133187,
+            "language": "C++",
+            "last_commit": "2026-08-24T01:42:27Z",
+            "owner": "MIT-SPARK",
+            "repo": "Hydra",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "CoRL23 Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs Rutgers project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695948030,
+            "language": "Python",
+            "last_commit": "2023-12-30T19:27:13Z",
+            "owner": "changhaonan",
+            "repo": "OVSG",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning UToronto project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698006618,
+            "language": "Python",
+            "last_commit": "2025-10-16T22:09:00Z",
+            "owner": "concept-graphs",
+            "repo": "concept-graphs",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 Collaborative Dynamic 3D Scene Graphs for Automated Driving UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693570740,
+            "language": "C++",
+            "last_commit": "2026-02-16T14:30:22Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "CURB-SG",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-01",
+          "description": "IJCARS24 Holistic OR domain modeling: a semantic scene graph approach TUM github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460338503,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:14:21Z",
+            "owner": "egeozsoy",
+            "repo": "4D-OR",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-02",
+          "description": "CVPR24 Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships Bosch project, github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 813506107,
+            "language": "Python",
+            "last_commit": "2024-09-16T06:54:29Z",
+            "owner": "boschresearch",
+            "repo": "Open3DSG",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-02",
+          "description": "CoRL24 RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation UIUC project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762110191,
+            "language": "Python",
+            "last_commit": "2025-10-26T21:58:57Z",
+            "owner": "Jianghanxiao",
+            "repo": "RoboEXP",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RSS24 Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811868667,
+            "language": "Python",
+            "last_commit": "2026-01-19T08:58:18Z",
+            "owner": "hovsg",
+            "repo": "HOV-SG",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "ECCV24 SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 734084577,
+            "language": "Python",
+            "last_commit": "2025-03-02T11:20:13Z",
+            "owner": "y9miao",
+            "repo": "VLSG",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RAL24 OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments BIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762638166,
+            "language": "Python",
+            "last_commit": "2025-12-03T12:10:30Z",
+            "owner": "BIT-DYN",
+            "repo": "OpenGraph",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RAL24 Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770960712,
+            "language": "Python",
+            "last_commit": "2024-07-31T11:23:11Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "MoMa-LLM",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04",
+          "description": "RAL24 Clio: Real-time Task-Driven Open-Set 3D Scene Graphs MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 786544888,
+            "language": "Python",
+            "last_commit": "2025-09-01T14:57:43Z",
+            "owner": "MIT-SPARK",
+            "repo": "Clio",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04",
+          "description": "ICRA25 DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models Bosch project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967407337,
+            "language": "Python",
+            "last_commit": "2025-04-16T12:16:53Z",
+            "owner": "boschresearch",
+            "repo": "DELTA",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05",
+          "description": "RAL24 Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791338950,
+            "language": "Python",
+            "last_commit": "2025-02-07T16:58:37Z",
+            "owner": "MIT-SPARK",
+            "repo": "LP2",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06",
+          "description": "NeurIPS24 SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models UCSD project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869405201,
+            "language": "Python",
+            "last_commit": "2024-12-14T23:41:03Z",
+            "owner": "AnjieCheng",
+            "repo": "SpatialRGPT",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06",
+          "description": "ICRA25 Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph MIPT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813076699,
+            "language": "Python",
+            "last_commit": "2025-07-16T09:51:25Z",
+            "owner": "linukc",
+            "repo": "BeyondBareQueries",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-07",
+          "description": "IJRR25 Open Scene Graphs for Open World Object-Goal Navigation NUS project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699446610,
+            "language": "Python",
+            "last_commit": "2024-10-26T09:23:48Z",
+            "owner": "GoAnywhereNUS",
+            "repo": "foundation_obj_nav",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09",
+          "description": "HUMANOIDS25 SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783679014,
+            "language": "Python",
+            "last_commit": "2025-03-03T16:43:11Z",
+            "owner": "timengelbracht",
+            "repo": "Spot-Light",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "NeurIPS24 SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation THU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 868428119,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-16T11:18:26Z",
+            "owner": "bagh2178",
+            "repo": "SG-Nav",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "RAL25 Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation BUAA project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880783898,
+            "language": "Python",
+            "last_commit": "2025-04-17T10:23:11Z",
+            "owner": "BJHYZJ",
+            "repo": "DovSG",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "ECCV24 Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clouds SYSU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 870115511,
+            "language": "Python",
+            "last_commit": "2025-09-21T07:04:39Z",
+            "owner": "Anne-Yanni-Ma",
+            "repo": "3DHetSGP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11",
+          "description": "RAL25 Lost & Found: Tracking Changes from Egocentric Observations in 3D Dynamic Scene Graphs ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893470941,
+            "language": "Python",
+            "last_commit": "2025-09-29T19:21:37Z",
+            "owner": "behretj",
+            "repo": "LostFound",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "arXiv24 3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding AIRI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887195808,
+            "language": "Python",
+            "last_commit": "2026-03-23T05:45:02Z",
+            "owner": "CognitiveAISystems",
+            "repo": "3DGraphLLM",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "IROS25 MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs THU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896384006,
+            "language": "Python",
+            "last_commit": "2026-03-21T09:06:02Z",
+            "owner": "efc-robot",
+            "repo": "MR-COGraphs",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "CVPR25 Relationfield: Relate anything in radiance fields Bosch project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932728131,
+            "language": "Python",
+            "last_commit": "2025-03-20T12:48:49Z",
+            "owner": "boschresearch",
+            "repo": "RelationField",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "AAAI25 TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances USYD github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814503314,
+            "language": "Python",
+            "last_commit": "2025-09-11T12:59:09Z",
+            "owner": "WentingXu3o3",
+            "repo": "TB-HSU",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02",
+          "description": "IROS25 DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation BIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936490981,
+            "language": "Python",
+            "last_commit": "2025-12-11T13:12:25Z",
+            "owner": "GeLuzhou",
+            "repo": "Dynamic-GSG",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007609163,
+            "language": "Python",
+            "last_commit": "2025-06-24T09:05:29Z",
+            "owner": "ZhangCYG",
+            "repo": "OpenFunGraph",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction UniStuttgart project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026271817,
+            "language": "Python",
+            "last_commit": "2025-10-11T00:01:49Z",
+            "owner": "dennisrotondi",
+            "repo": "FunGraph",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "TCSVT25 History-Enhanced 3D Scene Graph Reasoning from RGB-D Sequences XDU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800090689,
+            "language": null,
+            "last_commit": "2024-05-13T18:15:05Z",
+            "owner": "cbyan1003",
+            "repo": "HE-3DSG",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942524590,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-23T15:53:44Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "CURB-OSG",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding BIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940982540,
+            "language": "Python",
+            "last_commit": "2025-03-14T13:02:18Z",
+            "owner": "WangXihan-bit",
+            "repo": "GaussianGraph",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941895239,
+            "language": "Python",
+            "last_commit": "2025-08-27T07:49:28Z",
+            "owner": "egeozsoy",
+            "repo": "MM-OR",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "ICRA25 IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes CMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 857901344,
+            "language": "Python",
+            "last_commit": "2026-03-02T19:05:10Z",
+            "owner": "HaochenZ11",
+            "repo": "IRef-VLA",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 UniGoal: Towards Universal Zero-shot Goal-oriented Navigation THU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939809611,
+            "language": "Python",
+            "last_commit": "2025-09-16T11:18:45Z",
+            "owner": "bagh2178",
+            "repo": "UniGoal",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05",
+          "description": "NeurIPS25 EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 983141665,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-06T13:36:34Z",
+            "owner": "ardamamur",
+            "repo": "EgoExOR",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-06",
+          "description": "ICME25 Open-Scene Understanding-oriented 3D Scene Graph Generation HIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936645481,
+            "language": "Python",
+            "last_commit": "2025-03-25T02:27:32Z",
+            "owner": "YuansuHao",
+            "repo": "OSU-3DSG",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "ICCV25 FROSS: Faster-than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images NTHU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892451716,
+            "language": "Python",
+            "last_commit": "2025-12-06T04:09:24Z",
+            "owner": "Howardkhh",
+            "repo": "FROSS",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "arXiv25 Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph MIPT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965187832,
+            "language": "Python",
+            "last_commit": "2025-05-02T02:29:27Z",
+            "owner": "linukc",
+            "repo": "OVIGo-3DHSG",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-08",
+          "description": "IoTJ25 Hierarchical 3D Scene Graph based Semantic-Metric SLAM for Plant Inspection and Fruit Counting in Intelligent Hydroponics System PolyU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 870591038,
+            "language": null,
+            "last_commit": "2024-10-10T10:20:44Z",
+            "owner": "allenthreee",
+            "repo": "scene_graph",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-08",
+          "description": "ICCV25 Statistical Confidence Rescoring for Robust 3D Scene Graph Generation from Multi-View Images NUS project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078194580,
+            "language": "Python",
+            "last_commit": "2026-05-13T15:40:47Z",
+            "owner": "qixun1",
+            "repo": "scrssg",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-09",
+          "description": "ICMLA25 Integrating Prior Observations for Incremental 3D Scene Graph Prediction DFKI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1057065436,
+            "language": "Python",
+            "last_commit": "2026-01-19T16:00:01Z",
+            "owner": "m4renz",
+            "repo": "incremental-scene-graph-prediction",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-09",
+          "description": "CoRL25 ObjectReact: Learning Object-Relative Control for Visual Navigation UniAdelaide project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985696328,
+            "language": "Python",
+            "last_commit": "2025-10-09T03:49:16Z",
+            "owner": "oravus",
+            "repo": "object-rel-nav",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-09",
+          "description": "OMNN25 ElevNav: Large Language Model-Guided Robot Navigation via 3D Scene Graphs in Elevator Environments MIPT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963105861,
+            "language": "Python",
+            "last_commit": "2025-04-09T07:01:39Z",
+            "owner": "zhanghuzhenyu",
+            "repo": "elevnav",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "NeurIPS25 Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction KHU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1064495403,
+            "language": "Python",
+            "last_commit": "2026-07-14T06:13:36Z",
+            "owner": "VisualScienceLab-KHU",
+            "repo": "OCRL-3DSSG-Codes",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "RAL25 Event-Grounding Graph: Unified Spatio-Temporal Scene Graph from Robotic Observations AALTO github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071639853,
+            "language": "Python",
+            "last_commit": "2026-05-12T11:56:15Z",
+            "owner": "aalto-intelligent-robotics",
+            "repo": "EGG",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "TVCG25 SGSG: Stroke-Guided Scene Graph Generation BUAA github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030028256,
+            "language": "C#",
+            "last_commit": "2025-10-19T08:22:08Z",
+            "owner": "Sycamore-Ma",
+            "repo": "SGSG-runtime",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "ICCV25 Hierarchical 3D Scene Graphs Construction Outdoors ETH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956496398,
+            "language": "Python",
+            "last_commit": "2025-03-28T11:01:53Z",
+            "owner": "Jonnyffeler",
+            "repo": "OutdoorSceneGraph",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "IROS25 OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions ITMO University project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946042219,
+            "language": "C++",
+            "last_commit": "2026-05-08T12:28:15Z",
+            "owner": "be2rlab",
+            "repo": "OSMa-Bench",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11",
+          "description": "CVPR26 MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation XMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095719996,
+            "language": "Python",
+            "last_commit": "2026-03-23T12:08:57Z",
+            "owner": "ylwhxht",
+            "repo": "MSGNav",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11",
+          "description": "CVPR26 Describe Anything Anywhere At Any Moment MIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1108540484,
+            "language": "Python",
+            "last_commit": "2026-04-14T15:40:55Z",
+            "owner": "MIT-SPARK",
+            "repo": "DAAAM",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-12",
+          "description": "ICRA26 Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics UTU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185368561,
+            "language": "C++",
+            "last_commit": "2026-07-07T15:51:13Z",
+            "owner": "IacopomC",
+            "repo": "aion",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-01",
+          "description": "arXiv26 Lost-3DSG: Lightweight Open-Vocabulary 3D Scene Graphs with Semantic Tracking in Dynamic Environments Sapienza project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127320650,
+            "language": "Python",
+            "last_commit": "2026-01-23T09:04:42Z",
+            "owner": "Lab-RoCoCo-Sapienza",
+            "repo": "lost-3dsg",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03",
+          "description": "arXiv26 ToLL: Topological Layout Learning with Asymmetric Cross-View Structural Distillation for 3D Scene Graph Generation Pretraining UESTC github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105777022,
+            "language": "Python",
+            "last_commit": "2026-06-10T09:47:23Z",
+            "owner": "UESTC-nnLab",
+            "repo": "ToLL-SGG",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03",
+          "description": "arXiv26 OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding Shanghai Jiao Tong University github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1184071062,
+            "language": null,
+            "last_commit": "2026-03-18T07:05:59Z",
+            "owner": "IRMVLab",
+            "repo": "OGScene3D",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-04",
+          "description": "ACL26 CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models SUSTech github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199367884,
+            "language": "Python",
+            "last_commit": "2026-06-23T03:25:19Z",
+            "owner": "fz-zsl",
+            "repo": "CAPruner",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-05",
+          "description": "arXiv26 Mono-Hydra++: Real-Time Monocular Scene Graph Construction with Multi-Task Learning for 3D Indoor Mapping UT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240650103,
+            "language": "C++",
+            "last_commit": "2026-05-28T02:23:03Z",
+            "owner": "BavanthaU",
+            "repo": "mono-hydra-pp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "arXiv26 SG2Loc: Sequential Visual Localization on 3D Scene Graphs ETH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1250115037,
+            "language": "Python",
+            "last_commit": "2026-07-26T03:51:13Z",
+            "owner": "DmblnNicole",
+            "repo": "sg2loc",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "IROS26 From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models FZI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296632387,
+            "language": "C++",
+            "last_commit": "2026-07-28T15:35:23Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "semantic_scene_forests",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "arXiv26 Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation NWPU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1275257940,
+            "language": null,
+            "last_commit": "2026-06-26T06:18:25Z",
+            "owner": "Gineven",
+            "repo": "OAR",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07",
+          "description": "IROS26 Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation MIT project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489133187,
+            "language": "C++",
+            "last_commit": "2026-08-24T01:42:27Z",
+            "owner": "MIT-SPARK",
+            "repo": "Hydra",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07",
+          "description": "ECCV26 PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation LUH github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1283904922,
+            "language": null,
+            "last_commit": "2026-08-10T09:38:40Z",
+            "owner": "yyyyangyi",
+            "repo": "PUF",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Generation and Mapping"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021-08",
+          "description": "ICRA22 Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks MIT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460971095,
+            "language": "Python",
+            "last_commit": "2022-06-24T16:16:00Z",
+            "owner": "MIT-TESSE",
+            "repo": "dsg-rl",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-02",
+          "description": "RAL22 Situational Graphs for Robot Navigation in Structured Indoor Environments UniLu project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 760529742,
+            "language": "C++",
+            "last_commit": "2026-07-06T12:29:59Z",
+            "owner": "snt-arg",
+            "repo": "lidar_situational_graphs",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 Collaborative Dynamic 3D Scene Graphs for Automated Driving UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693570740,
+            "language": "C++",
+            "last_commit": "2026-02-16T14:30:22Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "CURB-SG",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RAL24 Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770960712,
+            "language": "Python",
+            "last_commit": "2024-07-31T11:23:11Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "MoMa-LLM",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RSS24 Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811868667,
+            "language": "Python",
+            "last_commit": "2026-01-19T08:58:18Z",
+            "owner": "hovsg",
+            "repo": "HOV-SG",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-07",
+          "description": "IJRR25 Open Scene Graphs for Open World Object-Goal Navigation NUS project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699446610,
+            "language": "Python",
+            "last_commit": "2024-10-26T09:23:48Z",
+            "owner": "GoAnywhereNUS",
+            "repo": "foundation_obj_nav",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "RAL25 Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation BUAA project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880783898,
+            "language": "Python",
+            "last_commit": "2025-04-17T10:23:11Z",
+            "owner": "BJHYZJ",
+            "repo": "DovSG",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "NeurIPS24 SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation THU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 868428119,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-16T11:18:26Z",
+            "owner": "bagh2178",
+            "repo": "SG-Nav",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942524590,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-23T15:53:44Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "CURB-OSG",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 UniGoal: Towards Universal Zero-shot Goal-oriented Navigation THU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939809611,
+            "language": "Python",
+            "last_commit": "2025-09-16T11:18:45Z",
+            "owner": "bagh2178",
+            "repo": "UniGoal",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-09",
+          "description": "OMNN25 ElevNav: Large Language Model-Guided Robot Navigation via 3D Scene Graphs in Elevator Environments MIPT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963105861,
+            "language": "Python",
+            "last_commit": "2025-04-09T07:01:39Z",
+            "owner": "zhanghuzhenyu",
+            "repo": "elevnav",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-09",
+          "description": "CoRL25 ObjectReact: Learning Object-Relative Control for Visual Navigation UniAdelaide project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985696328,
+            "language": "Python",
+            "last_commit": "2025-10-09T03:49:16Z",
+            "owner": "oravus",
+            "repo": "object-rel-nav",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11",
+          "description": "CVPR26 MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation XMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095719996,
+            "language": "Python",
+            "last_commit": "2026-03-23T12:08:57Z",
+            "owner": "ylwhxht",
+            "repo": "MSGNav",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-12",
+          "description": "ICRA26 Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics UTU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185368561,
+            "language": "C++",
+            "last_commit": "2026-07-07T15:51:13Z",
+            "owner": "IacopomC",
+            "repo": "aion",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "IROS26 From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models FZI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296632387,
+            "language": "C++",
+            "last_commit": "2026-07-28T15:35:23Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "semantic_scene_forests",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Navigation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-08",
+          "description": "TOC19 3-D Scene Graph: A Sparse and Semantic Representation of Physical Environments for Intelligent Agents KAIST github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156166243,
+            "language": "Python",
+            "last_commit": "2019-08-11T09:35:22Z",
+            "owner": "Uehwan",
+            "repo": "3-D-Scene-Graph",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-07",
+          "description": "CoRL21 TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs UToronto project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357672437,
+            "language": null,
+            "last_commit": "2022-07-08T18:14:23Z",
+            "owner": "taskography",
+            "repo": "taskography",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "CoRL23 Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs Rutgers project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695948030,
+            "language": "Python",
+            "last_commit": "2023-12-30T19:27:13Z",
+            "owner": "changhaonan",
+            "repo": "OVSG",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 Optimal Scene Graph Planning with Large Language Model Guidance UCSD project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665665394,
+            "language": "C++",
+            "last_commit": "2026-01-30T08:32:58Z",
+            "owner": "ExistentialRobotics",
+            "repo": "LLM-Scene-Graph-LTL-Planning",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09",
+          "description": "ICRA24 ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning UToronto project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698006618,
+            "language": "Python",
+            "last_commit": "2025-10-16T22:09:00Z",
+            "owner": "concept-graphs",
+            "repo": "concept-graphs",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-02",
+          "description": "CoRL24 RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation UIUC project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762110191,
+            "language": "Python",
+            "last_commit": "2025-10-26T21:58:57Z",
+            "owner": "Jianghanxiao",
+            "repo": "RoboEXP",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03",
+          "description": "RAL24 Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation UniFreiburg project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770960712,
+            "language": "Python",
+            "last_commit": "2024-07-31T11:23:11Z",
+            "owner": "robot-learning-freiburg",
+            "repo": "MoMa-LLM",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04",
+          "description": "ICRA25 DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models Bosch project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967407337,
+            "language": "Python",
+            "last_commit": "2025-04-16T12:16:53Z",
+            "owner": "boschresearch",
+            "repo": "DELTA",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09",
+          "description": "HUMANOIDS25 SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783679014,
+            "language": "Python",
+            "last_commit": "2025-03-03T16:43:11Z",
+            "owner": "timengelbracht",
+            "repo": "Spot-Light",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10",
+          "description": "RAL25 Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation BUAA project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880783898,
+            "language": "Python",
+            "last_commit": "2025-04-17T10:23:11Z",
+            "owner": "BJHYZJ",
+            "repo": "DovSG",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "IROS25 FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction UniStuttgart project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026271817,
+            "language": "Python",
+            "last_commit": "2025-10-11T00:01:49Z",
+            "owner": "dennisrotondi",
+            "repo": "FunGraph",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007609163,
+            "language": "Python",
+            "last_commit": "2025-06-24T09:05:29Z",
+            "owner": "ZhangCYG",
+            "repo": "OpenFunGraph",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "ICCV25 Event-Driven Storytelling with Multiple Lifelike Humans in a 3D Scene SNU project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010025701,
+            "language": "Python",
+            "last_commit": "2025-11-11T07:34:47Z",
+            "owner": "rms0329",
+            "repo": "Event-Driven-Storytelling",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "ICRA26 Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning Sapienza project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1070649353,
+            "language": "Python",
+            "last_commit": "2026-06-02T15:34:17Z",
+            "owner": "Lab-RoCoCo-Sapienza",
+            "repo": "context-matters",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-12",
+          "description": "ICRA26 Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics UTU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185368561,
+            "language": "C++",
+            "last_commit": "2026-07-07T15:51:13Z",
+            "owner": "IacopomC",
+            "repo": "aion",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-06",
+          "description": "IROS26 From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models FZI github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296632387,
+            "language": "C++",
+            "last_commit": "2026-07-28T15:35:23Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "semantic_scene_forests",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Planning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-10",
+          "description": "ICCV19 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera Stanford project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209860977,
+            "language": "Python",
+            "last_commit": "2024-06-28T04:44:57Z",
+            "owner": "StanfordVL",
+            "repo": "3DSceneGraph",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-04",
+          "description": "CVPR20 Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250762129,
+            "language": "CSS",
+            "last_commit": "2022-05-07T11:53:48Z",
+            "owner": "3DSSG",
+            "repo": "3DSSG.github.io",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-03",
+          "description": "MICCAI22 4D-OR: Semantic Scene Graphs for OR Domain Modeling TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460338503,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:14:21Z",
+            "owner": "egeozsoy",
+            "repo": "4D-OR",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12",
+          "description": "AAAI25 TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances USYD github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814503314,
+            "language": "Python",
+            "last_commit": "2025-09-11T12:59:09Z",
+            "owner": "WentingXu3o3",
+            "repo": "TB-HSU",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007609163,
+            "language": "Python",
+            "last_commit": "2025-06-24T09:05:29Z",
+            "owner": "ZhangCYG",
+            "repo": "OpenFunGraph",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "CVPR25 MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941895239,
+            "language": "Python",
+            "last_commit": "2025-08-27T07:49:28Z",
+            "owner": "egeozsoy",
+            "repo": "MM-OR",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03",
+          "description": "ICRA25 IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes CMU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 857901344,
+            "language": "Python",
+            "last_commit": "2026-03-02T19:05:10Z",
+            "owner": "HaochenZ11",
+            "repo": "IRef-VLA",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05",
+          "description": "NeurIPS25 EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding TUM project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 983141665,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-06T13:36:34Z",
+            "owner": "ardamamur",
+            "repo": "EgoExOR",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07",
+          "description": "ICCV25 FROSS: Faster-than-Real-Time Online 3D Semantic Scene Graph Generation from RGB-D Images NTHU github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892451716,
+            "language": "Python",
+            "last_commit": "2025-12-06T04:09:24Z",
+            "owner": "Howardkhh",
+            "repo": "FROSS",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "TVCG25 SGSG: Stroke-Guided Scene Graph Generation BUAA github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030028256,
+            "language": "C#",
+            "last_commit": "2025-10-19T08:22:08Z",
+            "owner": "Sycamore-Ma",
+            "repo": "SGSG-runtime",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10",
+          "description": "IROS25 OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions ITMO University project, github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946042219,
+            "language": "C++",
+            "last_commit": "2026-05-08T12:28:15Z",
+            "owner": "be2rlab",
+            "repo": "OSMa-Bench",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Dataset"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:56:03.531Z",
+    "last_updated": "2026-08-24T14:35:33.001Z",
     "original_repository": "dennisrotondi/awesome-3D-scene-graphs",
     "original_repository_id": 863061031,
     "original_repository_sha": "fdbf67f1522ae812e5d47a864c464dbf75db9c36",
