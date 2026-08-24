@@ -708,7 +708,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-24T01:42:27Z",
+            "last_commit": "2026-08-24T15:49:38Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1129
@@ -828,7 +828,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-24T01:42:27Z",
+            "last_commit": "2026-08-24T15:49:38Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1129
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-24T01:42:27Z",
+            "last_commit": "2026-08-24T15:49:38Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1129
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:33.001Z",
+    "last_updated": "2026-08-24T16:08:00.657Z",
     "original_repository": "dennisrotondi/awesome-3D-scene-graphs",
     "original_repository_id": 863061031,
     "original_repository_sha": "fdbf67f1522ae812e5d47a864c464dbf75db9c36",
