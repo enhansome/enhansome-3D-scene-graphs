@@ -30,7 +30,7 @@
             "last_commit": "2025-03-29T10:14:21Z",
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-03-29T10:14:21Z",
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2021-01-30T22:12:14Z",
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2118
+            "stars": 2119
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-24T20:18:39Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2026-07-06T12:29:59Z",
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2025-03-29T10:14:21Z",
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-08-24T20:18:39Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2025-03-29T10:14:21Z",
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1731,7 +1731,7 @@
             "last_commit": "2026-08-24T20:18:39Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -1782,7 +1782,7 @@
             "last_commit": "2026-07-06T12:29:59Z",
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -2274,7 +2274,7 @@
             "last_commit": "2025-03-29T10:14:21Z",
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -2319,7 +2319,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:48.853Z",
+    "last_updated": "2026-08-25T16:17:43.108Z",
     "original_repository": "dennisrotondi/awesome-3D-scene-graphs",
     "original_repository_id": 863061031,
     "original_repository_sha": "fdbf67f1522ae812e5d47a864c464dbf75db9c36",
