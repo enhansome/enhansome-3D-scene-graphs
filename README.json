@@ -360,7 +360,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2025-12-06T04:09:24Z",
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-26T16:02:03Z",
+            "last_commit": "2026-08-27T05:33:22Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1134
@@ -726,7 +726,7 @@
             "last_commit": "2026-07-06T12:29:59Z",
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -828,7 +828,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-26T16:02:03Z",
+            "last_commit": "2026-08-27T05:33:22Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1134
@@ -1116,7 +1116,7 @@
             "last_commit": "2025-04-17T10:23:11Z",
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "last_commit": "2025-12-06T04:09:24Z",
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-26T16:02:03Z",
+            "last_commit": "2026-08-27T05:33:22Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1134
@@ -1782,7 +1782,7 @@
             "last_commit": "2026-07-06T12:29:59Z",
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -1857,7 +1857,7 @@
             "last_commit": "2025-04-17T10:23:11Z",
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -2133,7 +2133,7 @@
             "last_commit": "2025-04-17T10:23:11Z",
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -2319,7 +2319,7 @@
             "last_commit": "2025-08-27T07:49:28Z",
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -2364,7 +2364,7 @@
             "last_commit": "2025-12-06T04:09:24Z",
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2402,9 +2402,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:33.854Z",
-    "original_repository": "dennisrotondi/awesome-3D-scene-graphs",
-    "original_repository_id": 863061031,
+    "last_updated": "2026-08-27T11:17:42.533Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 863061031,
+      "language": "TypeScript",
+      "last_commit": "2026-08-19T19:37:25Z",
+      "owner": "dennisrotondi",
+      "repo": "awesome-3D-scene-graphs",
+      "stars": 161
+    },
     "original_repository_sha": "fdbf67f1522ae812e5d47a864c464dbf75db9c36",
     "enhanced_repository": "enhansome/enhansome-3D-scene-graphs",
     "enhanced_repository_description": null,
