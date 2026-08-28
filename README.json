@@ -165,7 +165,7 @@
             "last_commit": "2025-09-01T14:57:43Z",
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -708,10 +708,10 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-27T05:33:22Z",
+            "last_commit": "2026-08-27T21:07:37Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -828,10 +828,10 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-27T05:33:22Z",
+            "last_commit": "2026-08-27T21:07:37Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2025-09-01T14:57:43Z",
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -1728,10 +1728,10 @@
             "archived": false,
             "id": 489133187,
             "language": "C++",
-            "last_commit": "2026-08-27T05:33:22Z",
+            "last_commit": "2026-08-27T21:07:37Z",
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:42.533Z",
+    "last_updated": "2026-08-28T00:35:51.637Z",
     "original_repository_info": {
       "archived": false,
       "id": 863061031,
