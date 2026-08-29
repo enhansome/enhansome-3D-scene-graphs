@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 149286199,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-12T15:54:40Z",
+            "open_issues": 0,
             "owner": "paulgay",
             "repo": "VGfM",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper 4D-OR: Semantic Scene Graphs for OR Domain Modeling accepted at MICCAI 2022. This repo includes both the dataset and our code.",
+            "homepage": null,
             "id": 460338503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-29T10:14:21Z",
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3d",
+              "4d",
+              "deep-learning",
+              "point-cloud",
+              "scene-graph",
+              "scene-graph-generation",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -42,12 +60,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Variable Scene Graphs for long-term semantic scene change prediction.",
+            "homepage": null,
             "id": 536988035,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-12T13:18:31Z",
+            "open_issues": 1,
             "owner": "ethz-asl",
             "repo": "3d_vsg",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "3d",
+              "deltavsg",
+              "graph",
+              "prediction",
+              "scene",
+              "scenegraph",
+              "variability",
+              "variable",
+              "vsg"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -58,12 +91,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] SGAligner: 3D Scene Alignment with Scene Graphs",
+            "homepage": "https://sayands.github.io/sgaligner/",
             "id": 619569665,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-03T15:40:44Z",
+            "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "3d-computer-vision",
+              "3d-scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -74,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL2023] Open-Vocabulary Scene-Graph",
+            "homepage": "https://ovsg-l.github.io/",
             "id": 695948030,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-30T19:27:13Z",
+            "open_issues": 1,
             "owner": "changhaonan",
             "repo": "OVSG",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -90,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for ConceptGraphs",
+            "homepage": null,
             "id": 698006618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-16T22:09:00Z",
+            "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932
+            "stars": 932,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -106,12 +157,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper 4D-OR: Semantic Scene Graphs for OR Domain Modeling accepted at MICCAI 2022. This repo includes both the dataset and our code.",
+            "homepage": null,
             "id": 460338503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-29T10:14:21Z",
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3d",
+              "4d",
+              "deep-learning",
+              "point-cloud",
+              "scene-graph",
+              "scene-graph-generation",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -122,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments",
+            "homepage": null,
             "id": 762638166,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-03T12:10:30Z",
+            "open_issues": 0,
             "owner": "BIT-DYN",
             "repo": "OpenGraph",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -138,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 734084577,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-02T11:20:13Z",
+            "open_issues": 3,
             "owner": "y9miao",
             "repo": "VLSG",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -154,12 +228,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RSS2024] Official implementation of \"Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation\"",
+            "homepage": "https://hovsg.github.io",
             "id": 811868667,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-19T08:58:18Z",
+            "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "3d-scene-graph",
+              "natural-language-understanding",
+              "open-vocabulary",
+              "robot-navigation",
+              "robot-planning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -170,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 786544888,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-09-01T14:57:43Z",
+            "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -186,12 +276,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Long-term Human Trajectory Prediction using 3D DSGs",
+            "homepage": null,
             "id": 791338950,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-07T16:58:37Z",
+            "open_issues": 0,
             "owner": "MIT-SPARK",
             "repo": "LP2",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "dsg",
+              "human",
+              "llm",
+              "long-term",
+              "motion",
+              "prediction",
+              "probabilistic",
+              "trajectory"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -202,12 +306,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'24] This repository is the implementation of \"SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models\"",
+            "homepage": "https://www.anjiecheng.me/SpatialRGPT",
             "id": 869405201,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-14T23:41:03Z",
+            "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "spatial-reasoning",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -218,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 813076699,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-16T09:51:25Z",
+            "open_issues": 0,
             "owner": "linukc",
             "repo": "BeyondBareQueries",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -234,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds",
+            "homepage": null,
             "id": 783679014,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-03T16:43:11Z",
+            "open_issues": 0,
             "owner": "timengelbracht",
             "repo": "Spot-Light",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -250,12 +372,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L] Lost & Found dynamically tracks object poses from egocentric videos while updating a scene graph, enabling richer semantic 3D understanding for robotic downstream tasks.",
+            "homepage": null,
             "id": 893470941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-29T19:21:37Z",
+            "open_issues": 7,
             "owner": "behretj",
             "repo": "LostFound",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "mapping",
+              "semantic-scene-understanding",
+              "visual-tracking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -266,12 +397,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] RelationField: Relate Anything in Radiance Fields",
+            "homepage": null,
             "id": 932728131,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-20T12:48:49Z",
+            "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "3d-scene-understanding",
+              "bcai",
+              "open-vocabulary",
+              "paper-resource",
+              "radiance-field"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -282,12 +424,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] 3DGraphLLM is a model that uses a 3D scene graph and an LLM to perform 3D vision-language tasks.",
+            "homepage": null,
             "id": 887195808,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T05:45:02Z",
+            "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "3d-scene-graph",
+              "3d-scene-understanding",
+              "3d-visual-grounding",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -298,12 +450,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2025] Official data and code for \"TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances\"",
+            "homepage": null,
             "id": 814503314,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-11T12:59:09Z",
+            "open_issues": 0,
             "owner": "WentingXu3o3",
             "repo": "TB-HSU",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "3d-scene-understanding",
+              "multi-task-learning",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -314,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 25] Dynamic 3D Gaussian Scene Graphs for Environment Adaptation",
+            "homepage": null,
             "id": 936490981,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-11T13:12:25Z",
+            "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -330,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 857901344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T19:05:10Z",
+            "open_issues": 1,
             "owner": "HaochenZ11",
             "repo": "IRef-VLA",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -346,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1007609163,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-24T09:05:29Z",
+            "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -362,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940982540,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-14T13:02:18Z",
+            "open_issues": 3,
             "owner": "WangXihan-bit",
             "repo": "GaussianGraph",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -378,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments accepted at CVPR 2025. This repo includes both the dataset and our code. ",
+            "homepage": null,
             "id": 941895239,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
+            "open_issues": 1,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -394,12 +580,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS'25] Official implementation of the paper FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction",
+            "homepage": "https://fungraph.github.io",
             "id": 1026271817,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-11T00:01:49Z",
+            "open_issues": 2,
             "owner": "dennisrotondi",
             "repo": "FunGraph",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "3d-scene-graphs",
+              "3d-scene-understanding",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -410,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
+            "homepage": null,
             "id": 983141665,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
+            "open_issues": 0,
             "owner": "ardamamur",
             "repo": "EgoExOR",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -426,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 965187832,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-02T02:29:27Z",
+            "open_issues": 1,
             "owner": "linukc",
             "repo": "OVIGo-3DHSG",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -442,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 892451716,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
+            "open_issues": 9,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -458,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Event-Grounding Graph: Unified Spatio-Temporal Scene Graph for Enhancing Scene Understanding from Robotic Observations",
+            "homepage": null,
             "id": 1071639853,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-12T11:56:15Z",
+            "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -474,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 25] OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions",
+            "homepage": null,
             "id": 946042219,
             "language": "C++",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-05-08T12:28:15Z",
+            "open_issues": 0,
             "owner": "be2rlab",
             "repo": "OSMa-Bench",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -490,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1030028256,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-10-19T08:22:08Z",
+            "open_issues": 0,
             "owner": "Sycamore-Ma",
             "repo": "SGSG-runtime",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -506,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Describe Anything, Anywhere, at Any Moment (DAAAM), a novel approach to real-time, large-scale, spatio-temporal memory",
+            "homepage": null,
             "id": 1108540484,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-14T15:40:55Z",
+            "open_issues": 6,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 500
+            "stars": 500,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -522,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2026 - MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation",
+            "homepage": null,
             "id": 1095719996,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T12:08:57Z",
+            "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -538,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1105777022,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-10T09:47:23Z",
+            "open_issues": 0,
             "owner": "UESTC-nnLab",
             "repo": "ToLL-SGG",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -554,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding",
+            "homepage": null,
             "id": 1184071062,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-18T07:05:59Z",
+            "open_issues": 1,
             "owner": "IRMVLab",
             "repo": "OGScene3D",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -570,12 +815,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for ACL 2026 paper CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models",
+            "homepage": "https://fz-zsl.github.io/capruner",
             "id": 1199367884,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-23T03:25:19Z",
+            "open_issues": 0,
             "owner": "fz-zsl",
             "repo": "CAPruner",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "3d-scene",
+              "acl2026",
+              "large-language-models",
+              "pytorch-implementation",
+              "scene-graph",
+              "spatial-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -586,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An observer-aware 3DSGG framework that specializes relation reasoning according to predicate-specific frame responses, supported by frame-stable object representations.",
+            "homepage": null,
             "id": 1275257940,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-26T06:18:25Z",
+            "open_issues": 1,
             "owner": "Gineven",
             "repo": "OAR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -602,12 +864,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'26] PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation",
+            "homepage": null,
             "id": 1283904922,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-10T09:38:40Z",
+            "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "scene-graph",
+              "uncertainty"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         }
@@ -624,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 149286199,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-12T15:54:40Z",
+            "open_issues": 0,
             "owner": "paulgay",
             "repo": "VGfM",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -640,12 +915,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D scene graph generator implemented in Pytorch.",
+            "homepage": null,
             "id": 156166243,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-11T09:35:22Z",
+            "open_issues": 8,
             "owner": "Uehwan",
             "repo": "3-D-Scene-Graph",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "3d-models",
+              "3d-scene-graph",
+              "computer-vision",
+              "deep-learning",
+              "deeplearning",
+              "environmental-modelling",
+              "intelligence",
+              "pytorch",
+              "robot",
+              "robotics",
+              "scene-graph",
+              "scenegraph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -656,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The data skeleton from \"3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera\" http://3dscenegraph.stanford.edu",
+            "homepage": null,
             "id": 209860977,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-28T04:44:57Z",
+            "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -672,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250762129,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-05-07T11:53:48Z",
+            "open_issues": 1,
             "owner": "3DSSG",
             "repo": "3DSSG.github.io",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -688,12 +991,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Index repo for Kimera code",
+            "homepage": null,
             "id": 208689257,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2021-01-30T22:12:14Z",
+            "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2119
+            "stars": 2119,
+            "topics": [
+              "3d-reconstruction",
+              "computer-vision",
+              "robotics",
+              "semantics",
+              "slam",
+              "visual-inertial-odometry"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -704,12 +1019,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis (official pytorch implementation)",
+            "homepage": "https://SGGpoint.github.io/",
             "id": 366689759,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-03-23T19:52:58Z",
+            "open_issues": 1,
             "owner": "chaoyivision",
             "repo": "SGGpoint",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "3d",
+              "computer-vision",
+              "cvpr",
+              "cvpr2021",
+              "point-cloud",
+              "pytorch",
+              "scene-graph",
+              "scene-graph-classification",
+              "scene-graph-generation",
+              "scene-understanding"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -720,12 +1051,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 364575916,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-07-26T14:10:18Z",
+            "open_issues": 2,
             "owner": "ShunChengWu",
             "repo": "SceneGraphFusion",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "real-time",
+              "scene-graph",
+              "scene-graph-generation",
+              "scene-understanding"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -736,12 +1077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 460971095,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-24T16:16:00Z",
+            "open_issues": 3,
             "owner": "MIT-TESSE",
             "repo": "dsg-rl",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -752,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A system for building 3D Scene Graphs from sensor data in real-time",
+            "homepage": null,
             "id": 489133187,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T21:07:37Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1136
+            "stars": 1136,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -768,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to generate in real-time Situational Graphs (S-Graphs) for robot pose and map optimization using 3D LiDAR Data",
+            "homepage": "https://snt-arg.github.io/lidar_situational_graphs/",
             "id": 760529742,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-06T12:29:59Z",
+            "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -784,12 +1140,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper 4D-OR: Semantic Scene Graphs for OR Domain Modeling accepted at MICCAI 2022. This repo includes both the dataset and our code.",
+            "homepage": null,
             "id": 460338503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-29T10:14:21Z",
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3d",
+              "4d",
+              "deep-learning",
+              "point-cloud",
+              "scene-graph",
+              "scene-graph-generation",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -800,12 +1169,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Variable Scene Graphs for long-term semantic scene change prediction.",
+            "homepage": null,
             "id": 536988035,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-12T13:18:31Z",
+            "open_issues": 1,
             "owner": "ethz-asl",
             "repo": "3d_vsg",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "3d",
+              "deltavsg",
+              "graph",
+              "prediction",
+              "scene",
+              "scenegraph",
+              "variability",
+              "variable",
+              "vsg"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -816,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to generate in Realtime S-Graphs for Robot pose and High-Level Map Optimization ",
+            "homepage": "https://snt-arg.github.io/s_graphs_docker/",
             "id": 545085298,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-18T05:29:25Z",
+            "open_issues": 2,
             "owner": "snt-arg",
             "repo": "s_graphs_docker",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -832,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 731941083,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-25T10:37:05Z",
+            "open_issues": 6,
             "owner": "Andy20178",
             "repo": "SGFormer",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -848,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR2023 : VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud",
+            "homepage": null,
             "id": 608572281,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-09T13:09:29Z",
+            "open_issues": 9,
             "owner": "wz7in",
             "repo": "CVPR2023-VLSAT",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -864,12 +1263,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] SGAligner: 3D Scene Alignment with Scene Graphs",
+            "homepage": "https://sayands.github.io/sgaligner/",
             "id": 619569665,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-03T15:40:44Z",
+            "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "3d-computer-vision",
+              "3d-scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -880,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A system for building 3D Scene Graphs from sensor data in real-time",
+            "homepage": null,
             "id": 489133187,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T21:07:37Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1136
+            "stars": 1136,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -896,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL2023] Open-Vocabulary Scene-Graph",
+            "homepage": "https://ovsg-l.github.io/",
             "id": 695948030,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-30T19:27:13Z",
+            "open_issues": 1,
             "owner": "changhaonan",
             "repo": "OVSG",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -912,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for ConceptGraphs",
+            "homepage": null,
             "id": 698006618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-16T22:09:00Z",
+            "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932
+            "stars": 932,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -928,12 +1350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2024] Collaborative Dynamic 3D Scene Graphs for Automated Driving",
+            "homepage": "http://curb.cs.uni-freiburg.de",
             "id": 693570740,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-16T14:30:22Z",
+            "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-SG",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "collaborative-slam",
+              "lidar-slam",
+              "multi-agent-systems",
+              "scene-graphs"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -944,12 +1376,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper 4D-OR: Semantic Scene Graphs for OR Domain Modeling accepted at MICCAI 2022. This repo includes both the dataset and our code.",
+            "homepage": null,
             "id": 460338503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-29T10:14:21Z",
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3d",
+              "4d",
+              "deep-learning",
+              "point-cloud",
+              "scene-graph",
+              "scene-graph-generation",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -960,12 +1405,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[CVPR 2024] Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships",
+            "homepage": null,
             "id": 813506107,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-16T06:54:29Z",
+            "open_issues": 4,
             "owner": "boschresearch",
             "repo": "Open3DSG",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "3d-scene-graph",
+              "3d-scene-understanding",
+              "bcai",
+              "open-vocabulary",
+              "paper-resource",
+              "scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -976,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL 2024] RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation",
+            "homepage": "https://jianghanxiao.github.io/roboexp-web/",
             "id": 762110191,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-26T21:58:57Z",
+            "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -992,12 +1454,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RSS2024] Official implementation of \"Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation\"",
+            "homepage": "https://hovsg.github.io",
             "id": 811868667,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-19T08:58:18Z",
+            "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "3d-scene-graph",
+              "natural-language-understanding",
+              "open-vocabulary",
+              "robot-navigation",
+              "robot-planning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1008,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 734084577,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-02T11:20:13Z",
+            "open_issues": 3,
             "owner": "y9miao",
             "repo": "VLSG",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1024,12 +1502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RAL 2024] OpenGraphs: Open-Vocabulary Hierarchical 3D Scene Graphs in Large-Scale Outdoor Environments",
+            "homepage": null,
             "id": 762638166,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-03T12:10:30Z",
+            "open_issues": 0,
             "owner": "BIT-DYN",
             "repo": "OpenGraph",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1040,12 +1523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation. Project website: http://moma-llm.cs.uni-freiburg.de",
+            "homepage": null,
             "id": 770960712,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T11:23:11Z",
+            "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1056,12 +1544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 786544888,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-09-01T14:57:43Z",
+            "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1072,12 +1565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models ",
+            "homepage": null,
             "id": 967407337,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-16T12:16:53Z",
+            "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1088,12 +1586,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Long-term Human Trajectory Prediction using 3D DSGs",
+            "homepage": null,
             "id": 791338950,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-07T16:58:37Z",
+            "open_issues": 0,
             "owner": "MIT-SPARK",
             "repo": "LP2",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "dsg",
+              "human",
+              "llm",
+              "long-term",
+              "motion",
+              "prediction",
+              "probabilistic",
+              "trajectory"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1104,12 +1616,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'24] This repository is the implementation of \"SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models\"",
+            "homepage": "https://www.anjiecheng.me/SpatialRGPT",
             "id": 869405201,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-14T23:41:03Z",
+            "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "spatial-reasoning",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1120,12 +1640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 813076699,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-16T09:51:25Z",
+            "open_issues": 0,
             "owner": "linukc",
             "repo": "BeyondBareQueries",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1136,12 +1661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object goal navigation with foundation models",
+            "homepage": null,
             "id": 699446610,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-26T09:23:48Z",
+            "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1152,12 +1682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds",
+            "homepage": null,
             "id": 783679014,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-03T16:43:11Z",
+            "open_issues": 0,
             "owner": "timengelbracht",
             "repo": "Spot-Light",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1168,12 +1703,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation",
+            "homepage": "https://bagh2178.github.io/SG-Nav/",
             "id": 868428119,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-09-16T11:18:26Z",
+            "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "3d-scene-graph",
+              "embodied-ai",
+              "large-language-models",
+              "matterport3d",
+              "neurips-2024",
+              "object-goal-navigation"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1184,12 +1731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation",
+            "homepage": "https://bjhyzj.github.io/dovsg-web",
             "id": 880783898,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
+            "open_issues": 4,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1200,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(ECCV2024)Heterogeneous Graph Learning for 3D Scene Graph Prediction in Point Clouds",
+            "homepage": null,
             "id": 870115511,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-21T07:04:39Z",
+            "open_issues": 0,
             "owner": "Anne-Yanni-Ma",
             "repo": "3DHetSGP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1216,12 +1773,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L] Lost & Found dynamically tracks object poses from egocentric videos while updating a scene graph, enabling richer semantic 3D understanding for robotic downstream tasks.",
+            "homepage": null,
             "id": 893470941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-29T19:21:37Z",
+            "open_issues": 7,
             "owner": "behretj",
             "repo": "LostFound",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "mapping",
+              "semantic-scene-understanding",
+              "visual-tracking"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1232,12 +1798,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] 3DGraphLLM is a model that uses a 3D scene graph and an LLM to perform 3D vision-language tasks.",
+            "homepage": null,
             "id": 887195808,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T05:45:02Z",
+            "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "3d-scene-graph",
+              "3d-scene-understanding",
+              "3d-visual-grounding",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1248,12 +1824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L25] MR-COGraphs: Communication-efficient multi-robot open-vocabulary mapping system via 3D scene graphs",
+            "homepage": null,
             "id": 896384006,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-21T09:06:02Z",
+            "open_issues": 1,
             "owner": "efc-robot",
             "repo": "MR-COGraphs",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1264,12 +1845,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] RelationField: Relate Anything in Radiance Fields",
+            "homepage": null,
             "id": 932728131,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-20T12:48:49Z",
+            "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "3d-scene-understanding",
+              "bcai",
+              "open-vocabulary",
+              "paper-resource",
+              "radiance-field"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1280,12 +1872,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2025] Official data and code for \"TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances\"",
+            "homepage": null,
             "id": 814503314,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-11T12:59:09Z",
+            "open_issues": 0,
             "owner": "WentingXu3o3",
             "repo": "TB-HSU",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "3d-scene-understanding",
+              "multi-task-learning",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1296,12 +1897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 25] Dynamic 3D Gaussian Scene Graphs for Environment Adaptation",
+            "homepage": null,
             "id": 936490981,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-11T13:12:25Z",
+            "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1312,12 +1918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1007609163,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-24T09:05:29Z",
+            "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1328,12 +1939,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS'25] Official implementation of the paper FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction",
+            "homepage": "https://fungraph.github.io",
             "id": 1026271817,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-11T00:01:49Z",
+            "open_issues": 2,
             "owner": "dennisrotondi",
             "repo": "FunGraph",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "3d-scene-graphs",
+              "3d-scene-understanding",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1344,12 +1964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 800090689,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-13T18:15:05Z",
+            "open_issues": 1,
             "owner": "cbyan1003",
             "repo": "HE-3DSG",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1360,12 +1985,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding",
+            "homepage": "https://ov-curb.cs.uni-freiburg.de",
             "id": 942524590,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-23T15:53:44Z",
+            "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-OSG",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "collaborative-slam",
+              "lidar-slam",
+              "multi-agent-systems",
+              "scene-graphs"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1376,12 +2011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940982540,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-14T13:02:18Z",
+            "open_issues": 3,
             "owner": "WangXihan-bit",
             "repo": "GaussianGraph",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1392,12 +2032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments accepted at CVPR 2025. This repo includes both the dataset and our code. ",
+            "homepage": null,
             "id": 941895239,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
+            "open_issues": 1,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1408,12 +2053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 857901344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T19:05:10Z",
+            "open_issues": 1,
             "owner": "HaochenZ11",
             "repo": "IRef-VLA",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1424,12 +2074,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation",
+            "homepage": "https://bagh2178.github.io/UniGoal/",
             "id": 939809611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-16T11:18:45Z",
+            "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "3d-scene-graph",
+              "cvpr2025",
+              "embodied-ai",
+              "image-goal-navigation",
+              "instruction-following",
+              "large-language-models",
+              "matterport3d",
+              "navigation",
+              "object-goal-navigation"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1440,12 +2105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
+            "homepage": null,
             "id": 983141665,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
+            "open_issues": 0,
             "owner": "ardamamur",
             "repo": "EgoExOR",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1456,12 +2126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Paper: Open-Scene Understanding-oriented 3D Scene Graph Generation",
+            "homepage": null,
             "id": 936645481,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-25T02:27:32Z",
+            "open_issues": 1,
             "owner": "YuansuHao",
             "repo": "OSU-3DSG",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1472,12 +2147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 892451716,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
+            "open_issues": 9,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1488,12 +2168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 965187832,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-02T02:29:27Z",
+            "open_issues": 1,
             "owner": "linukc",
             "repo": "OVIGo-3DHSG",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1504,12 +2189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 870591038,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-10T10:20:44Z",
+            "open_issues": 0,
             "owner": "allenthreee",
             "repo": "scene_graph",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1520,12 +2210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Statistical Confidence Rescoring for Robust 3D Scene Graph Generation from Multi-View Images",
+            "homepage": null,
             "id": 1078194580,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-13T15:40:47Z",
+            "open_issues": 0,
             "owner": "qixun1",
             "repo": "scrssg",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1536,12 +2231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the ICMLA25 submission of \"M. Renz et al.: Integrating Prior Observations for Incremental 3D Scene Graph Prediction\"",
+            "homepage": null,
             "id": 1057065436,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-01-19T16:00:01Z",
+            "open_issues": 1,
             "owner": "m4renz",
             "repo": "incremental-scene-graph-prediction",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1552,12 +2252,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-Relative Navigation: ObjectReact [CoRL'25] | TANGO [ICRA'25] | RoboHop [ICRA'24]",
+            "homepage": "https://object-react.github.io/",
             "id": 985696328,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-09T03:49:16Z",
+            "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "3dsg",
+              "controller",
+              "learning",
+              "mapping",
+              "navigation",
+              "object",
+              "planner",
+              "representation",
+              "topological",
+              "topometric",
+              "trajectory",
+              "vla"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1568,12 +2286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 963105861,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-09T07:01:39Z",
+            "open_issues": 0,
             "owner": "zhanghuzhenyu",
             "repo": "elevnav",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1584,12 +2307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1064495403,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-14T06:13:36Z",
+            "open_issues": 2,
             "owner": "VisualScienceLab-KHU",
             "repo": "OCRL-3DSSG-Codes",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1600,12 +2328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Event-Grounding Graph: Unified Spatio-Temporal Scene Graph for Enhancing Scene Understanding from Robotic Observations",
+            "homepage": null,
             "id": 1071639853,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-12T11:56:15Z",
+            "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1616,12 +2349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1030028256,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-10-19T08:22:08Z",
+            "open_issues": 0,
             "owner": "Sycamore-Ma",
             "repo": "SGSG-runtime",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1632,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 956496398,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-28T11:01:53Z",
+            "open_issues": 1,
             "owner": "Jonnyffeler",
             "repo": "OutdoorSceneGraph",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1648,12 +2391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 25] OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions",
+            "homepage": null,
             "id": 946042219,
             "language": "C++",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-05-08T12:28:15Z",
+            "open_issues": 0,
             "owner": "be2rlab",
             "repo": "OSMa-Bench",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1664,12 +2412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2026 - MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation",
+            "homepage": null,
             "id": 1095719996,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T12:08:57Z",
+            "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1680,12 +2433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Describe Anything, Anywhere, at Any Moment (DAAAM), a novel approach to real-time, large-scale, spatio-temporal memory",
+            "homepage": null,
             "id": 1108540484,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-14T15:40:55Z",
+            "open_issues": 6,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 500
+            "stars": 500,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1696,12 +2454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2026] Official implementation of \"Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics\"",
+            "homepage": null,
             "id": 1185368561,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-07T15:51:13Z",
+            "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1712,12 +2475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for \"LOST-3DSG: Lightweight Open-Vocabulary 3D Scene Graphs with Semantic Tracking in Dynamic Environments\"",
+            "homepage": null,
             "id": 1127320650,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-23T09:04:42Z",
+            "open_issues": 0,
             "owner": "Lab-RoCoCo-Sapienza",
             "repo": "lost-3dsg",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1728,12 +2496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1105777022,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-10T09:47:23Z",
+            "open_issues": 0,
             "owner": "UESTC-nnLab",
             "repo": "ToLL-SGG",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1744,12 +2517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding",
+            "homepage": null,
             "id": 1184071062,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-18T07:05:59Z",
+            "open_issues": 1,
             "owner": "IRMVLab",
             "repo": "OGScene3D",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1760,12 +2538,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for ACL 2026 paper CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models",
+            "homepage": "https://fz-zsl.github.io/capruner",
             "id": 1199367884,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-23T03:25:19Z",
+            "open_issues": 0,
             "owner": "fz-zsl",
             "repo": "CAPruner",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "3d-scene",
+              "acl2026",
+              "large-language-models",
+              "pytorch-implementation",
+              "scene-graph",
+              "spatial-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1776,12 +2566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mono-Hydra++: Real-Time Monocular 3D Scene Graph Construction",
+            "homepage": null,
             "id": 1240650103,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T02:23:03Z",
+            "open_issues": 0,
             "owner": "BavanthaU",
             "repo": "mono-hydra-pp",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1792,12 +2587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the ICML 2026 paper \"SG2Loc: Sequential Visual Localization on 3D Scene Graphs\"",
+            "homepage": null,
             "id": 1250115037,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-26T03:51:13Z",
+            "open_issues": 0,
             "owner": "DmblnNicole",
             "repo": "sg2loc",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1808,12 +2608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ein ROS 2-Softwarepaket zur semantischen Umgebungsmodellierung, das dynamische Szene-Graphen mit Objekten und deren Beziehungen erzeugt.",
+            "homepage": null,
             "id": 1296632387,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-28T15:35:23Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1824,12 +2629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An observer-aware 3DSGG framework that specializes relation reasoning according to predicate-specific frame responses, supported by frame-stable object representations.",
+            "homepage": null,
             "id": 1275257940,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-26T06:18:25Z",
+            "open_issues": 1,
             "owner": "Gineven",
             "repo": "OAR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1840,12 +2650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A system for building 3D Scene Graphs from sensor data in real-time",
+            "homepage": null,
             "id": 489133187,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T21:07:37Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1136
+            "stars": 1136,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1856,12 +2671,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'26] PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation",
+            "homepage": null,
             "id": 1283904922,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-10T09:38:40Z",
+            "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "scene-graph",
+              "uncertainty"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         }
@@ -1878,12 +2701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 460971095,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-24T16:16:00Z",
+            "open_issues": 3,
             "owner": "MIT-TESSE",
             "repo": "dsg-rl",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1894,12 +2722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to generate in real-time Situational Graphs (S-Graphs) for robot pose and map optimization using 3D LiDAR Data",
+            "homepage": "https://snt-arg.github.io/lidar_situational_graphs/",
             "id": 760529742,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-06T12:29:59Z",
+            "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1910,12 +2743,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2024] Collaborative Dynamic 3D Scene Graphs for Automated Driving",
+            "homepage": "http://curb.cs.uni-freiburg.de",
             "id": 693570740,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-16T14:30:22Z",
+            "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-SG",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "collaborative-slam",
+              "lidar-slam",
+              "multi-agent-systems",
+              "scene-graphs"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1926,12 +2769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation. Project website: http://moma-llm.cs.uni-freiburg.de",
+            "homepage": null,
             "id": 770960712,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T11:23:11Z",
+            "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1942,12 +2790,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RSS2024] Official implementation of \"Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation\"",
+            "homepage": "https://hovsg.github.io",
             "id": 811868667,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-19T08:58:18Z",
+            "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "3d-scene-graph",
+              "natural-language-understanding",
+              "open-vocabulary",
+              "robot-navigation",
+              "robot-planning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1958,12 +2817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object goal navigation with foundation models",
+            "homepage": null,
             "id": 699446610,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-26T09:23:48Z",
+            "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1974,12 +2838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation",
+            "homepage": "https://bjhyzj.github.io/dovsg-web",
             "id": 880783898,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
+            "open_issues": 4,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -1990,12 +2859,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation",
+            "homepage": "https://bagh2178.github.io/SG-Nav/",
             "id": 868428119,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-09-16T11:18:26Z",
+            "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "3d-scene-graph",
+              "embodied-ai",
+              "large-language-models",
+              "matterport3d",
+              "neurips-2024",
+              "object-goal-navigation"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2006,12 +2887,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding",
+            "homepage": "https://ov-curb.cs.uni-freiburg.de",
             "id": 942524590,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-23T15:53:44Z",
+            "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-OSG",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "collaborative-slam",
+              "lidar-slam",
+              "multi-agent-systems",
+              "scene-graphs"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2022,12 +2913,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation",
+            "homepage": "https://bagh2178.github.io/UniGoal/",
             "id": 939809611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-16T11:18:45Z",
+            "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "3d-scene-graph",
+              "cvpr2025",
+              "embodied-ai",
+              "image-goal-navigation",
+              "instruction-following",
+              "large-language-models",
+              "matterport3d",
+              "navigation",
+              "object-goal-navigation"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2038,12 +2944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 963105861,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-09T07:01:39Z",
+            "open_issues": 0,
             "owner": "zhanghuzhenyu",
             "repo": "elevnav",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2054,12 +2965,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-Relative Navigation: ObjectReact [CoRL'25] | TANGO [ICRA'25] | RoboHop [ICRA'24]",
+            "homepage": "https://object-react.github.io/",
             "id": 985696328,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-09T03:49:16Z",
+            "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "3dsg",
+              "controller",
+              "learning",
+              "mapping",
+              "navigation",
+              "object",
+              "planner",
+              "representation",
+              "topological",
+              "topometric",
+              "trajectory",
+              "vla"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2070,12 +2999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2026 - MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation",
+            "homepage": null,
             "id": 1095719996,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T12:08:57Z",
+            "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2086,12 +3020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2026] Official implementation of \"Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics\"",
+            "homepage": null,
             "id": 1185368561,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-07T15:51:13Z",
+            "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2102,12 +3041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ein ROS 2-Softwarepaket zur semantischen Umgebungsmodellierung, das dynamische Szene-Graphen mit Objekten und deren Beziehungen erzeugt.",
+            "homepage": null,
             "id": 1296632387,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-28T15:35:23Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         }
@@ -2124,12 +3068,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D scene graph generator implemented in Pytorch.",
+            "homepage": null,
             "id": 156166243,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-11T09:35:22Z",
+            "open_issues": 8,
             "owner": "Uehwan",
             "repo": "3-D-Scene-Graph",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "3d-models",
+              "3d-scene-graph",
+              "computer-vision",
+              "deep-learning",
+              "deeplearning",
+              "environmental-modelling",
+              "intelligence",
+              "pytorch",
+              "robot",
+              "robotics",
+              "scene-graph",
+              "scenegraph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2140,12 +3102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Task planning over 3D scene graphs",
+            "homepage": null,
             "id": 357672437,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-08T18:14:23Z",
+            "open_issues": 0,
             "owner": "taskography",
             "repo": "taskography",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2156,12 +3123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL2023] Open-Vocabulary Scene-Graph",
+            "homepage": "https://ovsg-l.github.io/",
             "id": 695948030,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-30T19:27:13Z",
+            "open_issues": 1,
             "owner": "changhaonan",
             "repo": "OVSG",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2172,12 +3144,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for ICRA'24 Paper \"Optimal Scene Graph Planning with Large Language Model Guidance\"",
+            "homepage": "http://existentialrobotics.org/LLM-Scene-Graph-LTL-Planning/",
             "id": 665665394,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-01-30T08:32:58Z",
+            "open_issues": 0,
             "owner": "ExistentialRobotics",
             "repo": "LLM-Scene-Graph-LTL-Planning",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "llm",
+              "planning-algorithms",
+              "scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2188,12 +3169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for ConceptGraphs",
+            "homepage": null,
             "id": 698006618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-16T22:09:00Z",
+            "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932
+            "stars": 932,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2204,12 +3190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CoRL 2024] RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation",
+            "homepage": "https://jianghanxiao.github.io/roboexp-web/",
             "id": 762110191,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-26T21:58:57Z",
+            "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2220,12 +3211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation. Project website: http://moma-llm.cs.uni-freiburg.de",
+            "homepage": null,
             "id": 770960712,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T11:23:11Z",
+            "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2236,12 +3232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models ",
+            "homepage": null,
             "id": 967407337,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-16T12:16:53Z",
+            "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2252,12 +3253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds",
+            "homepage": null,
             "id": 783679014,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-03T16:43:11Z",
+            "open_issues": 0,
             "owner": "timengelbracht",
             "repo": "Spot-Light",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2268,12 +3274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation",
+            "homepage": "https://bjhyzj.github.io/dovsg-web",
             "id": 880783898,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
+            "open_issues": 4,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2284,12 +3295,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS'25] Official implementation of the paper FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction",
+            "homepage": "https://fungraph.github.io",
             "id": 1026271817,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-11T00:01:49Z",
+            "open_issues": 2,
             "owner": "dennisrotondi",
             "repo": "FunGraph",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "3d-scene-graphs",
+              "3d-scene-understanding",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2300,12 +3320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1007609163,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-24T09:05:29Z",
+            "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2316,12 +3341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository of Event-Driven Storytelling with Multiple Lifelike Humans in a 3D Scene (ICCV 2025)",
+            "homepage": null,
             "id": 1010025701,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-11T07:34:47Z",
+            "open_issues": 0,
             "owner": "rms0329",
             "repo": "Event-Driven-Storytelling",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2332,12 +3362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1070649353,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T15:34:17Z",
+            "open_issues": 2,
             "owner": "Lab-RoCoCo-Sapienza",
             "repo": "context-matters",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2348,12 +3383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2026] Official implementation of \"Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics\"",
+            "homepage": null,
             "id": 1185368561,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-07T15:51:13Z",
+            "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2364,12 +3404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ein ROS 2-Softwarepaket zur semantischen Umgebungsmodellierung, das dynamische Szene-Graphen mit Objekten und deren Beziehungen erzeugt.",
+            "homepage": null,
             "id": 1296632387,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-28T15:35:23Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         }
@@ -2386,12 +3431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The data skeleton from \"3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera\" http://3dscenegraph.stanford.edu",
+            "homepage": null,
             "id": 209860977,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-28T04:44:57Z",
+            "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2402,12 +3452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250762129,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-05-07T11:53:48Z",
+            "open_issues": 1,
             "owner": "3DSSG",
             "repo": "3DSSG.github.io",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2418,12 +3473,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper 4D-OR: Semantic Scene Graphs for OR Domain Modeling accepted at MICCAI 2022. This repo includes both the dataset and our code.",
+            "homepage": null,
             "id": 460338503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-29T10:14:21Z",
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3d",
+              "4d",
+              "deep-learning",
+              "point-cloud",
+              "scene-graph",
+              "scene-graph-generation",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2434,12 +3502,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2025] Official data and code for \"TB-HSU: Hierarchical 3D Scene Understanding with Contextual Affordances\"",
+            "homepage": null,
             "id": 814503314,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-11T12:59:09Z",
+            "open_issues": 0,
             "owner": "WentingXu3o3",
             "repo": "TB-HSU",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "3d-scene-understanding",
+              "multi-task-learning",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2450,12 +3527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1007609163,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-24T09:05:29Z",
+            "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2466,12 +3548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments accepted at CVPR 2025. This repo includes both the dataset and our code. ",
+            "homepage": null,
             "id": 941895239,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
+            "open_issues": 1,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2482,12 +3569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 857901344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T19:05:10Z",
+            "open_issues": 1,
             "owner": "HaochenZ11",
             "repo": "IRef-VLA",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2498,12 +3590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of the paper \"EgoExOR: EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding\" accepted at NeurIPS 2025",
+            "homepage": null,
             "id": 983141665,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
+            "open_issues": 0,
             "owner": "ardamamur",
             "repo": "EgoExOR",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2514,12 +3611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 892451716,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
+            "open_issues": 9,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2530,12 +3632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1030028256,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-10-19T08:22:08Z",
+            "open_issues": 0,
             "owner": "Sycamore-Ma",
             "repo": "SGSG-runtime",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -2546,12 +3653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS 25] OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions",
+            "homepage": null,
             "id": 946042219,
             "language": "C++",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-05-08T12:28:15Z",
+            "open_issues": 0,
             "owner": "be2rlab",
             "repo": "OSMa-Bench",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         }
@@ -2560,15 +3672,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:52.074Z",
+    "last_updated": "2026-08-29T04:55:54.584Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
+      "homepage": "https://3dscenegraphs.com/",
       "id": 863061031,
       "language": "TypeScript",
+      "license": "MIT",
       "last_commit": "2026-08-19T19:37:25Z",
+      "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 161
+      "stars": 161,
+      "topics": [
+        "3d-scene-graph",
+        "3d-scene-understanding",
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "robotics"
+      ]
     },
     "original_repository_sha": "fdbf67f1522ae812e5d47a864c464dbf75db9c36",
     "enhanced_repository": "enhansome/enhansome-3D-scene-graphs",
