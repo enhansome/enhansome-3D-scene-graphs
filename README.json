@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526,
+            "stars": 528,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -433,7 +433,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -740,7 +740,7 @@
             "open_issues": 6,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 502,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2119,
+            "stars": 2120,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T23:27:34Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-31T12:20:59Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1140,
+            "stars": 1142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T23:27:34Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-31T12:20:59Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1140,
+            "stars": 1142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526,
+            "stars": 528,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1807,7 +1807,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -1906,7 +1906,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2337,7 +2337,7 @@
             "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2421,7 +2421,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2442,7 +2442,7 @@
             "open_issues": 6,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 502,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2596,7 +2596,7 @@
             "open_issues": 0,
             "owner": "DmblnNicole",
             "repo": "sg2loc",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T23:27:34Z",
-            "open_issues": 31,
+            "last_commit": "2026-08-31T12:20:59Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1140,
+            "stars": 1142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2799,7 +2799,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 526,
+            "stars": 528,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3008,7 +3008,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 932,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:48:12.737Z",
+    "last_updated": "2026-08-31T21:04:55.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
