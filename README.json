@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2120,
+            "stars": 2121,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1103,7 +1103,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T12:20:59Z",
+            "last_commit": "2026-08-31T22:55:48Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1292,7 +1292,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T12:20:59Z",
+            "last_commit": "2026-08-31T22:55:48Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,7 +2655,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T12:20:59Z",
+            "last_commit": "2026-08-31T22:55:48Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:04:55.342Z",
+    "last_updated": "2026-09-01T18:49:05.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
