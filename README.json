@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 937,
+            "stars": 939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -433,7 +433,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2122,
+            "stars": 2123,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T22:55:48Z",
+            "last_commit": "2026-09-03T07:56:49Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1145,
+            "stars": 1148,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T22:55:48Z",
+            "last_commit": "2026-09-03T07:56:49Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1145,
+            "stars": 1148,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 937,
+            "stars": 939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1807,7 +1807,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-31T22:55:48Z",
+            "last_commit": "2026-09-03T07:56:49Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1145,
+            "stars": 1148,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3153,7 +3153,7 @@
             "open_issues": 0,
             "owner": "ExistentialRobotics",
             "repo": "LLM-Scene-Graph-LTL-Planning",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "llm",
               "planning-algorithms",
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 937,
+            "stars": 939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:56:29.440Z",
+    "last_updated": "2026-09-03T18:51:50.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
