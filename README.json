@@ -1103,7 +1103,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-04T17:37:31Z",
+            "last_commit": "2026-09-05T17:11:22Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1292,7 +1292,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-04T17:37:31Z",
+            "last_commit": "2026-09-05T17:11:22Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1737,10 +1737,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,7 +2655,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-04T17:37:31Z",
+            "last_commit": "2026-09-05T17:11:22Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -2844,10 +2844,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3280,10 +3280,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-04-17T10:23:11Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:33:11.261Z",
+    "last_updated": "2026-09-05T17:36:29.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
