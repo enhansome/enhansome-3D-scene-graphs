@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 939,
+            "stars": 940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -740,7 +740,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1103,7 +1103,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T17:11:22Z",
+            "last_commit": "2026-09-06T02:47:51Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1292,7 +1292,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T17:11:22Z",
+            "last_commit": "2026-09-06T02:47:51Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 939,
+            "stars": 940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2442,7 +2442,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2463,7 +2463,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,7 +2655,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-05T17:11:22Z",
+            "last_commit": "2026-09-06T02:47:51Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -3029,7 +3029,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 939,
+            "stars": 940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3392,7 +3392,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:36:29.047Z",
+    "last_updated": "2026-09-06T17:40:56.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
