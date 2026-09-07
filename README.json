@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 940,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -264,7 +264,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-06T02:47:51Z",
+            "last_commit": "2026-09-07T17:50:43Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1148,
+            "stars": 1149,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-06T02:47:51Z",
+            "last_commit": "2026-09-07T17:50:43Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1148,
+            "stars": 1149,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 940,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1553,7 +1553,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1574,7 +1574,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1712,7 +1712,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2421,7 +2421,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-06T02:47:51Z",
+            "last_commit": "2026-09-07T17:50:43Z",
             "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1148,
+            "stars": 1149,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2868,7 +2868,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -3008,7 +3008,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 940,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:40:56.148Z",
+    "last_updated": "2026-09-07T19:22:30.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
