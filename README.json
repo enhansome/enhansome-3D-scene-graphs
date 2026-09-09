@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -264,7 +264,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 257,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -433,7 +433,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -740,7 +740,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-08T17:31:16Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-09T17:37:35Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1149,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-08T17:31:16Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-09T17:37:35Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1149,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1553,7 +1553,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 257,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1670,7 +1670,7 @@
             "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1712,7 +1712,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 350,
+            "stars": 349,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -1807,7 +1807,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 352,
+            "stars": 362,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2442,7 +2442,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2596,7 +2596,7 @@
             "open_issues": 0,
             "owner": "DmblnNicole",
             "repo": "sg2loc",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-08T17:31:16Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-09T17:37:35Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1149,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2799,7 +2799,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2826,7 +2826,7 @@
             "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2868,7 +2868,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 350,
+            "stars": 349,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2922,7 +2922,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 352,
+            "stars": 362,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:57:29.707Z",
+    "last_updated": "2026-09-09T18:50:13.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -3684,7 +3684,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 163,
+      "stars": 165,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
