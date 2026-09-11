@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 943,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -740,7 +740,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 508,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -869,7 +869,7 @@
             "id": 1283904922,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-10T09:38:40Z",
+            "last_commit": "2026-09-11T07:45:44Z",
             "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-10T16:19:27Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-11T15:38:11Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1151,
+            "stars": 1153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-10T16:19:27Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-11T15:38:11Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1151,
+            "stars": 1153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 943,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1712,7 +1712,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -1761,7 +1761,7 @@
             "open_issues": 0,
             "owner": "Anne-Yanni-Ma",
             "repo": "3DHetSGP",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2442,7 +2442,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 508,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2613,7 +2613,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-28T15:35:23Z",
+            "last_commit": "2026-09-11T16:14:32Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-10T16:19:27Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-11T15:38:11Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1151,
+            "stars": 1153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2676,7 +2676,7 @@
             "id": 1283904922,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-10T09:38:40Z",
+            "last_commit": "2026-09-11T07:45:44Z",
             "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
@@ -2799,7 +2799,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2868,7 +2868,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2922,7 +2922,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3046,7 +3046,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-28T15:35:23Z",
+            "last_commit": "2026-09-11T16:14:32Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 943,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3409,7 +3409,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-28T15:35:23Z",
+            "last_commit": "2026-09-11T16:14:32Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:40:33.463Z",
+    "last_updated": "2026-09-11T18:44:20.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
