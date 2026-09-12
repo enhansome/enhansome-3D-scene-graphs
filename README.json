@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 944,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -867,9 +867,9 @@
             "description": "[ECCV'26] PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation",
             "homepage": null,
             "id": 1283904922,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-11T07:45:44Z",
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-11T22:41:29Z",
             "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
@@ -1103,8 +1103,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T15:38:11Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-12T16:14:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -1292,8 +1292,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T15:38:11Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-12T16:14:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 944,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2655,8 +2655,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T15:38:11Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-12T16:14:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -2674,9 +2674,9 @@
             "description": "[ECCV'26] PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation",
             "homepage": null,
             "id": 1283904922,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-11T07:45:44Z",
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-11T22:41:29Z",
             "open_issues": 0,
             "owner": "yyyyangyi",
             "repo": "PUF",
@@ -2799,7 +2799,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3178,7 +3178,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 944,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:44:20.054Z",
+    "last_updated": "2026-09-12T17:48:45.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
