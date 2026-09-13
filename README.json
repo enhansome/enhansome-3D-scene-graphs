@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1103,8 +1103,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T16:14:09Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-13T17:56:06Z",
+            "open_issues": 26,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -1292,8 +1292,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T16:14:09Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-13T17:56:06Z",
+            "open_issues": 26,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2655,8 +2655,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T16:14:09Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-13T17:56:06Z",
+            "open_issues": 26,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1153,
@@ -2799,7 +2799,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:48:45.945Z",
+    "last_updated": "2026-09-13T18:20:05.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -3684,7 +3684,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 165,
+      "stars": 167,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
