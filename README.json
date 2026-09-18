@@ -740,7 +740,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1128,7 +1128,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2442,7 +2442,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2731,7 +2731,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:14:48.268Z",
+    "last_updated": "2026-09-18T18:37:46.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
