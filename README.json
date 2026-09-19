@@ -740,7 +740,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 514,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1103,8 +1103,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T19:07:28Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-19T18:07:32Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1157,
@@ -1292,8 +1292,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T19:07:28Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-19T18:07:32Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1157,
@@ -2442,7 +2442,7 @@
             "open_issues": 4,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 514,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,8 +2655,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T19:07:28Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-19T18:07:32Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1157,
@@ -3153,7 +3153,7 @@
             "open_issues": 0,
             "owner": "ExistentialRobotics",
             "repo": "LLM-Scene-Graph-LTL-Planning",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "llm",
               "planning-algorithms",
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:37:46.716Z",
+    "last_updated": "2026-09-19T18:12:13.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -3684,7 +3684,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 167,
+      "stars": 168,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
