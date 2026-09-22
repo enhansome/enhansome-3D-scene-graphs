@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "3d-computer-vision",
               "3d-scene-graph"
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 517,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2130,
+            "stars": 2129,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-21T16:54:25Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-22T17:17:25Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1160,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1272,7 +1272,7 @@
             "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "3d-computer-vision",
               "3d-scene-graph"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-21T16:54:25Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-22T17:17:25Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1160,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1712,7 +1712,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2135,7 +2135,7 @@
             "open_issues": 1,
             "owner": "YuansuHao",
             "repo": "OSU-3DSG",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2261,7 +2261,7 @@
             "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "3dsg",
               "controller",
@@ -2442,7 +2442,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 517,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-21T16:54:25Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-22T17:17:25Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1160,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2868,7 +2868,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2974,7 +2974,7 @@
             "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "3dsg",
               "controller",
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:06:58.272Z",
+    "last_updated": "2026-09-22T19:07:43.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
