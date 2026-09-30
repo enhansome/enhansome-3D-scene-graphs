@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -381,7 +381,7 @@
             "open_issues": 7,
             "owner": "behretj",
             "repo": "LostFound",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "mapping",
               "semantic-scene-understanding",
@@ -719,7 +719,7 @@
             "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T17:46:27Z",
+            "last_commit": "2026-09-30T14:42:38Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1165,
+            "stars": 1168,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T17:46:27Z",
+            "last_commit": "2026-09-30T14:42:38Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1165,
+            "stars": 1168,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1782,7 +1782,7 @@
             "open_issues": 7,
             "owner": "behretj",
             "repo": "LostFound",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "mapping",
               "semantic-scene-understanding",
@@ -2379,7 +2379,7 @@
             "open_issues": 0,
             "owner": "aalto-intelligent-robotics",
             "repo": "EGG",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T17:46:27Z",
+            "last_commit": "2026-09-30T14:42:38Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1165,
+            "stars": 1168,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2701,7 +2701,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-27T23:53:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "insait-institute",
             "repo": "GraphWrit3R",
             "stars": 0,
@@ -3199,7 +3199,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3693,7 +3693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:12:25.057Z",
+    "last_updated": "2026-09-30T20:17:29.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
