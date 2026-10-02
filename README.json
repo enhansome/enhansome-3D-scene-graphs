@@ -1000,7 +1000,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2131,
+            "stars": 2133,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1103,11 +1103,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-30T14:42:38Z",
+            "last_commit": "2026-10-02T19:56:14Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1169,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1292,11 +1292,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-30T14:42:38Z",
+            "last_commit": "2026-10-02T19:56:14Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1169,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1740,7 +1740,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,11 +2655,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-30T14:42:38Z",
+            "last_commit": "2026-10-02T19:56:14Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1169,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2868,7 +2868,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3304,7 +3304,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3693,7 +3693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:29:20.252Z",
+    "last_updated": "2026-10-02T20:07:09.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
