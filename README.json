@@ -1103,7 +1103,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T19:56:14Z",
+            "last_commit": "2026-10-02T20:12:11Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1292,7 +1292,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T19:56:14Z",
+            "last_commit": "2026-10-02T20:12:11Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -2655,7 +2655,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T19:56:14Z",
+            "last_commit": "2026-10-02T20:12:11Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -3693,7 +3693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:07:09.627Z",
+    "last_updated": "2026-10-03T04:21:08.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
