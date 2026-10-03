@@ -264,7 +264,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1553,7 +1553,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3693,7 +3693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:08.226Z",
+    "last_updated": "2026-10-03T18:49:15.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
