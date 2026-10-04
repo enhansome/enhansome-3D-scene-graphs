@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1463,7 +1463,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2820,7 +2820,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3693,7 +3693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:49:15.430Z",
+    "last_updated": "2026-10-04T18:46:56.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -3702,7 +3702,7 @@
       "language": "TypeScript",
       "license": "MIT",
       "last_commit": "2026-09-29T11:34:38Z",
-      "open_issues": 0,
+      "open_issues": 29,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
       "stars": 168,
