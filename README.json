@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1187,7 +1187,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T22:21:24Z",
+            "last_commit": "2026-10-06T15:58:10Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1376,7 +1376,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T22:21:24Z",
+            "last_commit": "2026-10-06T15:58:10Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -2463,7 +2463,7 @@
             "open_issues": 2,
             "owner": "VisualScienceLab-KHU",
             "repo": "OCRL-3DSSG-Codes",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2802,7 +2802,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T22:21:24Z",
+            "last_commit": "2026-10-06T15:58:10Z",
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -2872,7 +2872,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -3987,7 +3987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:40.752Z",
+    "last_updated": "2026-10-06T20:32:52.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
