@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2133,
+            "stars": 2135,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-06T15:58:10Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-07T20:34:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1172,
+            "stars": 1173,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-06T15:58:10Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-07T20:34:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1172,
+            "stars": 1173,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2802,11 +2802,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-06T15:58:10Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-07T20:34:09Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1172,
+            "stars": 1173,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2932,7 +2932,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-24T18:53:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "IacopomC",
             "repo": "kairos",
             "stars": 3,
@@ -3725,7 +3725,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-24T18:53:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "IacopomC",
             "repo": "kairos",
             "stars": 3,
@@ -3987,7 +3987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:32:52.832Z",
+    "last_updated": "2026-10-07T20:46:19.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
