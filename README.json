@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 551,
+            "stars": 553,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 535,
+            "stars": 536,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-12T20:30:47Z",
+            "last_commit": "2026-10-13T18:47:00Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1177,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-12T20:30:47Z",
+            "last_commit": "2026-10-13T18:47:00Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1177,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 551,
+            "stars": 553,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1817,7 +1817,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 535,
+            "stars": 536,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2659,7 +2659,7 @@
             "open_issues": 0,
             "owner": "BavanthaU",
             "repo": "mono-hydra-pp",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2802,11 +2802,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-12T20:30:47Z",
+            "last_commit": "2026-10-13T18:47:00Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1177,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2973,11 +2973,11 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T18:30:01Z",
+            "last_commit": "2026-10-13T20:39:44Z",
             "open_issues": 8,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 8,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 551,
+            "stars": 553,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3619,7 +3619,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:35:16.940Z",
+    "last_updated": "2026-10-13T20:48:40.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4041,7 +4041,7 @@
       "open_issues": 1,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 172,
+      "stars": 173,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
