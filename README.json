@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 536,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1212,7 +1212,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1290,7 +1290,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-04-18T05:29:25Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "snt-arg",
             "repo": "s_graphs_docker",
             "stars": 82,
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1817,7 +1817,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1838,7 +1838,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 536,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3025,7 +3025,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3141,7 +3141,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3468,7 +3468,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3619,7 +3619,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:41:03.526Z",
+    "last_updated": "2026-10-15T19:22:04.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
