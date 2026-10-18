@@ -406,7 +406,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2138,
+            "stars": 2139,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1187,7 +1187,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T16:04:03Z",
+            "last_commit": "2026-10-18T17:01:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1376,7 +1376,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T16:04:03Z",
+            "last_commit": "2026-10-18T17:01:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1796,7 +1796,7 @@
             "open_issues": 0,
             "owner": "Anne-Yanni-Ma",
             "repo": "3DHetSGP",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1891,7 +1891,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -2826,7 +2826,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T16:04:03Z",
+            "last_commit": "2026-10-18T17:01:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:55:26.347Z",
+    "last_updated": "2026-10-18T18:16:06.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
