@@ -593,7 +593,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 539,
+            "stars": 540,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1042,7 +1042,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 328,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,8 +1187,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-18T17:01:33Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-19T18:23:25Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1180,
@@ -1212,7 +1212,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 324,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,8 +1376,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-18T17:01:33Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-19T18:23:25Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1180,
@@ -1817,7 +1817,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -1845,7 +1845,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2135,7 +2135,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2505,7 +2505,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 539,
+            "stars": 540,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2655,7 +2655,7 @@
             "id": 1240650103,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-05-28T02:23:03Z",
+            "last_commit": "2026-10-19T11:12:06Z",
             "open_issues": 0,
             "owner": "BavanthaU",
             "repo": "mono-hydra-pp",
@@ -2739,7 +2739,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T16:14:32Z",
+            "last_commit": "2026-10-19T13:34:34Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -2826,8 +2826,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-18T17:01:33Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-19T18:23:25Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1180,
@@ -2973,8 +2973,8 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T04:02:23Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-19T01:56:52Z",
+            "open_issues": 9,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
             "stars": 13,
@@ -3025,7 +3025,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 324,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3216,7 +3216,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3340,7 +3340,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T16:14:32Z",
+            "last_commit": "2026-10-19T13:34:34Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3619,7 +3619,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3640,7 +3640,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3745,7 +3745,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T16:14:32Z",
+            "last_commit": "2026-10-19T13:34:34Z",
             "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3797,7 +3797,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 328,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3893,7 +3893,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:16:06.971Z",
+    "last_updated": "2026-10-19T20:42:22.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
