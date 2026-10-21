@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 975,
+            "stars": 976,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 556,
+            "stars": 558,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -336,7 +336,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -611,7 +611,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ardamamur",
             "repo": "EgoExOR",
             "stars": 32,
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1187,8 +1187,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-20T19:01:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-21T19:29:37Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1182,
@@ -1376,8 +1376,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-20T19:01:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-21T19:29:37Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1182,
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 975,
+            "stars": 976,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 556,
+            "stars": 558,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1709,7 +1709,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1845,7 +1845,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2195,7 +2195,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ardamamur",
             "repo": "EgoExOR",
             "stars": 32,
@@ -2505,7 +2505,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2739,8 +2739,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T15:00:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T14:56:10Z",
+            "open_issues": 2,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -2826,8 +2826,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-20T19:01:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-21T19:29:37Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1182,
@@ -2935,7 +2935,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -2977,7 +2977,7 @@
             "open_issues": 9,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 556,
+            "stars": 558,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3216,7 +3216,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3340,8 +3340,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T15:00:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T14:56:10Z",
+            "open_issues": 2,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 975,
+            "stars": 976,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3619,7 +3619,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3745,8 +3745,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T15:00:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T14:56:10Z",
+            "open_issues": 2,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -3953,7 +3953,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-05-06T13:36:34Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ardamamur",
             "repo": "EgoExOR",
             "stars": 32,
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:33:45.330Z",
+    "last_updated": "2026-10-21T19:35:22.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4041,7 +4041,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 174,
+      "stars": 175,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
