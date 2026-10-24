@@ -593,7 +593,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2141,
+            "stars": 2140,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1187,7 +1187,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-23T18:55:35Z",
+            "last_commit": "2026-10-24T18:07:56Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1376,7 +1376,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-23T18:55:35Z",
+            "last_commit": "2026-10-24T18:07:56Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1658,7 +1658,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2135,7 +2135,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2826,7 +2826,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-23T18:55:35Z",
+            "last_commit": "2026-10-24T18:07:56Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -3216,7 +3216,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3577,7 +3577,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3640,7 +3640,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3893,7 +3893,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:31:39.040Z",
+    "last_updated": "2026-10-24T18:21:02.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4041,7 +4041,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 176,
+      "stars": 177,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
