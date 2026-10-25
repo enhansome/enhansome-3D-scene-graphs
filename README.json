@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 977,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-24T18:07:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-25T15:33:15Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1186,
+            "stars": 1187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-24T18:07:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-25T15:33:15Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1186,
+            "stars": 1187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 977,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-24T18:07:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-25T15:33:15Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1186,
+            "stars": 1187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 977,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3535,7 +3535,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3577,7 +3577,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:21:02.066Z",
+    "last_updated": "2026-10-25T18:32:32.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
