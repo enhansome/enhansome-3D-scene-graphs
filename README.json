@@ -336,7 +336,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -593,7 +593,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2140,
+            "stars": 2141,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-25T15:33:15Z",
+            "last_commit": "2026-10-26T18:57:08Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-25T15:33:15Z",
+            "last_commit": "2026-10-26T18:57:08Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1990,7 +1990,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2135,7 +2135,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2481,7 +2481,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-03-28T11:01:53Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Jonnyffeler",
             "repo": "OutdoorSceneGraph",
             "stars": 19,
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-25T15:33:15Z",
+            "last_commit": "2026-10-26T18:57:08Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2910,7 +2910,7 @@
             "id": 1385650792,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:53:37Z",
+            "last_commit": "2026-10-26T18:22:52Z",
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "kairos",
@@ -2973,8 +2973,8 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T01:56:52Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-26T01:57:51Z",
+            "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
             "stars": 15,
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3302,7 +3302,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3556,7 +3556,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3640,7 +3640,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3766,7 +3766,7 @@
             "id": 1385650792,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:53:37Z",
+            "last_commit": "2026-10-26T18:22:52Z",
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "kairos",
@@ -3893,7 +3893,7 @@
             "open_issues": 0,
             "owner": "ZhangCYG",
             "repo": "OpenFunGraph",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:32:32.419Z",
+    "last_updated": "2026-10-26T20:44:31.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4041,7 +4041,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 177,
+      "stars": 178,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
