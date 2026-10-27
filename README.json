@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-26T18:57:08Z",
+            "last_commit": "2026-10-27T14:57:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1188,
+            "stars": 1189,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-26T18:57:08Z",
+            "last_commit": "2026-10-27T14:57:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1188,
+            "stars": 1189,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-26T18:57:08Z",
+            "last_commit": "2026-10-27T14:57:33Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1188,
+            "stars": 1189,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3535,7 +3535,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:44:31.171Z",
+    "last_updated": "2026-10-27T20:13:28.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4041,7 +4041,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 178,
+      "stars": 179,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
