@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1187,7 +1187,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T20:00:44Z",
+            "last_commit": "2026-10-29T00:25:34Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1212,7 +1212,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 326,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,7 +1376,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T20:00:44Z",
+            "last_commit": "2026-10-29T00:25:34Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2547,7 +2547,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2568,7 +2568,7 @@
             "open_issues": 0,
             "owner": "Lab-RoCoCo-Sapienza",
             "repo": "lost-3dsg",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2739,7 +2739,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T14:32:00Z",
+            "last_commit": "2026-10-29T15:56:04Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -2826,7 +2826,7 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T20:00:44Z",
+            "last_commit": "2026-10-29T00:25:34Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
@@ -2935,7 +2935,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -2977,7 +2977,7 @@
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -3025,7 +3025,7 @@
             "open_issues": 1,
             "owner": "snt-arg",
             "repo": "lidar_situational_graphs",
-            "stars": 326,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3302,7 +3302,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3323,7 +3323,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3340,7 +3340,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T14:32:00Z",
+            "last_commit": "2026-10-29T15:56:04Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3556,7 +3556,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3577,7 +3577,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3728,7 +3728,7 @@
             "open_issues": 0,
             "owner": "IacopomC",
             "repo": "aion",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3745,7 +3745,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T14:32:00Z",
+            "last_commit": "2026-10-29T15:56:04Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:31:56.195Z",
+    "last_updated": "2026-10-29T20:34:31.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4038,10 +4038,10 @@
       "language": "TypeScript",
       "license": "MIT",
       "last_commit": "2026-10-16T12:31:30Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 179,
+      "stars": 180,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
