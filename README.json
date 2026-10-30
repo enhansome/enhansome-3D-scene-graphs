@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 544,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2324,7 +2324,7 @@
             "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "3dsg",
               "controller",
@@ -2505,7 +2505,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 544,
+            "stars": 546,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2739,7 +2739,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T15:56:04Z",
+            "last_commit": "2026-10-30T13:43:48Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3268,7 +3268,7 @@
             "open_issues": 2,
             "owner": "oravus",
             "repo": "object-rel-nav",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "3dsg",
               "controller",
@@ -3340,7 +3340,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T15:56:04Z",
+            "last_commit": "2026-10-30T13:43:48Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -3556,7 +3556,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3745,7 +3745,7 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T15:56:04Z",
+            "last_commit": "2026-10-30T13:43:48Z",
             "open_issues": 1,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:34:31.115Z",
+    "last_updated": "2026-10-30T20:07:07.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
