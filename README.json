@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "3d-computer-vision",
               "3d-scene-graph"
@@ -432,7 +432,7 @@
             "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "3d-scene-understanding",
               "bcai",
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2141,
+            "stars": 2142,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1187,8 +1187,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-29T00:25:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-31T14:52:21Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1189,
@@ -1356,7 +1356,7 @@
             "open_issues": 0,
             "owner": "sayands",
             "repo": "sgaligner",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "3d-computer-vision",
               "3d-scene-graph"
@@ -1376,8 +1376,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-29T00:25:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-31T14:52:21Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1189,
@@ -1938,7 +1938,7 @@
             "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "3d-scene-understanding",
               "bcai",
@@ -2826,8 +2826,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-29T00:25:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-31T14:52:21Z",
+            "open_issues": 30,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1189,
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:07:07.684Z",
+    "last_updated": "2026-10-31T19:31:53.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
