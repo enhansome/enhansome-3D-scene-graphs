@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -406,7 +406,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -894,7 +894,7 @@
             "open_issues": 1,
             "owner": "crcz25",
             "repo": "OccuSG",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -912,7 +912,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:59:59Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "yyyyangyi",
             "repo": "PUF",
             "stars": 8,
@@ -1042,7 +1042,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 329,
+            "stars": 330,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1191,7 +1191,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1191,
+            "stars": 1193,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1380,7 +1380,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1191,
+            "stars": 1193,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1845,7 +1845,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1891,7 +1891,7 @@
             "open_issues": 0,
             "owner": "CognitiveAISystems",
             "repo": "3DGraphLLM",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "3d-scene-graph",
               "3d-scene-understanding",
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2300,7 +2300,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-13T15:40:47Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "qixun1",
             "repo": "scrssg",
             "stars": 3,
@@ -2785,7 +2785,7 @@
             "open_issues": 1,
             "owner": "crcz25",
             "repo": "OccuSG",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -2803,7 +2803,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:59:59Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "yyyyangyi",
             "repo": "PUF",
             "stars": 8,
@@ -2830,7 +2830,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1191,
+            "stars": 1193,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2851,7 +2851,7 @@
             "open_issues": 1,
             "owner": "dualtransparency",
             "repo": "R4DSG",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-10-11T19:42:20.105Z"
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3216,7 +3216,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3556,7 +3556,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3619,7 +3619,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3797,7 +3797,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 329,
+            "stars": 330,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:28:44.943Z",
+    "last_updated": "2026-11-05T21:33:22.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
