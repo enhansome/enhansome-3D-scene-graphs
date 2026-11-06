@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -336,7 +336,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -653,7 +653,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
             "stars": 46,
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2143,
+            "stars": 2144,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1817,7 +1817,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -2258,7 +2258,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
             "stars": 46,
@@ -2505,7 +2505,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 26,
             "owner": "bagh2178",
             "repo": "SG-Nav",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "3d-scene-graph",
               "embodied-ai",
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3974,7 +3974,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-06T04:09:24Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
             "stars": 46,
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:33:22.417Z",
+    "last_updated": "2026-11-06T21:02:46.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
