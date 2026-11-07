@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -527,7 +527,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -1332,7 +1332,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-07-09T13:09:29Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "wz7in",
             "repo": "CVPR2023-VLSAT",
             "stars": 100,
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2008,7 +2008,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3216,7 +3216,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3932,7 +3932,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:02:46.571Z",
+    "last_updated": "2026-11-07T19:36:17.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
