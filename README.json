@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -656,7 +656,7 @@
             "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 551,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2144,
+            "stars": 2145,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1191,7 +1191,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1193,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1380,7 +1380,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1193,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2261,7 +2261,7 @@
             "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2505,7 +2505,7 @@
             "open_issues": 1,
             "owner": "MIT-SPARK",
             "repo": "DAAAM",
-            "stars": 551,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2830,7 +2830,7 @@
             "open_issues": 32,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1193,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3514,7 +3514,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 986,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3977,7 +3977,7 @@
             "open_issues": 10,
             "owner": "Howardkhh",
             "repo": "FROSS",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:36:17.122Z",
+    "last_updated": "2026-11-08T19:56:34.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
