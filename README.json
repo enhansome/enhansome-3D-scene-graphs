@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -336,7 +336,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -527,7 +527,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-03T14:08:01Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-09T21:57:13Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1194,
+            "stars": 1195,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1332,7 +1332,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-07-09T13:09:29Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "wz7in",
             "repo": "CVPR2023-VLSAT",
             "stars": 100,
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-03T14:08:01Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-09T21:57:13Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1194,
+            "stars": 1195,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1754,7 +1754,7 @@
             "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2008,7 +2008,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2722,7 +2722,7 @@
             "open_issues": 0,
             "owner": "DmblnNicole",
             "repo": "sg2loc",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-03T14:08:01Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-09T21:57:13Z",
+            "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1194,
+            "stars": 1195,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2935,7 +2935,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -2964,7 +2964,7 @@
         {
           "node_type": "item",
           "title": "brdsdsu/Yggdrasil",
-          "description": "arXiv26 Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying SDSU",
+          "description": ", github arXiv26 Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying SDSU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2973,8 +2973,8 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T17:47:47Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-09T01:57:56Z",
+            "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
             "stars": 17,
@@ -3058,6 +3058,27 @@
         },
         {
           "node_type": "item",
+          "title": "robot-learning-freiburg/MoMa-LLM",
+          "description": ", github RAL24 Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation UniFreiburg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation. Project website: http://moma-llm.cs.uni-freiburg.de",
+            "homepage": null,
+            "id": 770960712,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2024-07-31T11:23:11Z",
+            "open_issues": 0,
+            "owner": "robot-learning-freiburg",
+            "repo": "MoMa-LLM",
+            "stars": 111,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:05:52.074Z"
+        },
+        {
+          "node_type": "item",
           "title": "hovsg/HOV-SG",
           "description": ", github RSS24 Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation UniFreiburg",
           "children": [],
@@ -3085,27 +3106,6 @@
         },
         {
           "node_type": "item",
-          "title": "robot-learning-freiburg/MoMa-LLM",
-          "description": ", github RAL24 Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation UniFreiburg",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation. Project website: http://moma-llm.cs.uni-freiburg.de",
-            "homepage": null,
-            "id": 770960712,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-07-31T11:23:11Z",
-            "open_issues": 0,
-            "owner": "robot-learning-freiburg",
-            "repo": "MoMa-LLM",
-            "stars": 111,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:05:52.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "GoAnywhereNUS/foundation_obj_nav",
           "description": ", github IJRR25 Open Scene Graphs for Open World Object-Goal Navigation NUS",
           "children": [],
@@ -3120,7 +3120,7 @@
             "open_issues": 0,
             "owner": "GoAnywhereNUS",
             "repo": "foundation_obj_nav",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3176,32 +3176,6 @@
         },
         {
           "node_type": "item",
-          "title": "robot-learning-freiburg/CURB-OSG",
-          "description": ", github IROS25 Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding UniFreiburg",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding",
-            "homepage": "https://ov-curb.cs.uni-freiburg.de",
-            "id": 942524590,
-            "language": "Jupyter Notebook",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-23T15:53:44Z",
-            "open_issues": 1,
-            "owner": "robot-learning-freiburg",
-            "repo": "CURB-OSG",
-            "stars": 36,
-            "topics": [
-              "collaborative-slam",
-              "lidar-slam",
-              "multi-agent-systems",
-              "scene-graphs"
-            ]
-          },
-          "first_seen": "2026-08-29T00:05:52.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "bagh2178/UniGoal",
           "description": ", github CVPR25 UniGoal: Towards Universal Zero-shot Goal-oriented Navigation THU",
           "children": [],
@@ -3227,6 +3201,32 @@
               "matterport3d",
               "navigation",
               "object-goal-navigation"
+            ]
+          },
+          "first_seen": "2026-08-29T00:05:52.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "robot-learning-freiburg/CURB-OSG",
+          "description": ", github IROS25 Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding UniFreiburg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding",
+            "homepage": "https://ov-curb.cs.uni-freiburg.de",
+            "id": 942524590,
+            "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
+            "last_commit": "2025-12-23T15:53:44Z",
+            "open_issues": 1,
+            "owner": "robot-learning-freiburg",
+            "repo": "CURB-OSG",
+            "stars": 36,
+            "topics": [
+              "collaborative-slam",
+              "lidar-slam",
+              "multi-agent-systems",
+              "scene-graphs"
             ]
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3302,7 +3302,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3330,27 +3330,6 @@
         },
         {
           "node_type": "item",
-          "title": "fzi-forschungszentrum-informatik/semantic_scene_forests",
-          "description": "IROS26 From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models FZI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ein ROS 2-Softwarepaket zur semantischen Umgebungsmodellierung, das dynamische Szene-Graphen mit Objekten und deren Beziehungen erzeugt.",
-            "homepage": null,
-            "id": 1296632387,
-            "language": "C++",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T14:10:45Z",
-            "open_issues": 1,
-            "owner": "fzi-forschungszentrum-informatik",
-            "repo": "semantic_scene_forests",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:05:52.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "perceptica-robotics/Hickory",
           "description": "arXiv26 Hierarchical Object Representation for Spatial Robot Perception: Points, Meshes, and Superquadrics NUS",
           "children": [],
@@ -3372,6 +3351,27 @@
         },
         {
           "node_type": "item",
+          "title": "fzi-forschungszentrum-informatik/semantic_scene_forests",
+          "description": "IROS26 From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models FZI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ein ROS 2-Softwarepaket zur semantischen Umgebungsmodellierung, das dynamische Szene-Graphen mit Objekten und deren Beziehungen erzeugt.",
+            "homepage": null,
+            "id": 1296632387,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-04T14:10:45Z",
+            "open_issues": 1,
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "semantic_scene_forests",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:05:52.074Z"
+        },
+        {
+          "node_type": "item",
           "title": "Agibot-Spatial-Intelligence/OVIP-SG",
           "description": "arXiv26 OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects XJTU",
           "children": [],
@@ -3390,6 +3390,27 @@
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
+        },
+        {
+          "node_type": "item",
+          "title": "brdsdsu/Yggdrasil",
+          "description": ", github arXiv26 Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying SDSU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1064232473,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-09T01:57:56Z",
+            "open_issues": 10,
+            "owner": "brdsdsu",
+            "repo": "Yggdrasil",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-10-12T22:35:16.940Z"
         }
       ],
       "title": "Navigation"
@@ -3514,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 987,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3626,27 +3647,6 @@
         },
         {
           "node_type": "item",
-          "title": "ZhangCYG/OpenFunGraph",
-          "description": ", github CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1007609163,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-06-24T09:05:29Z",
-            "open_issues": 0,
-            "owner": "ZhangCYG",
-            "repo": "OpenFunGraph",
-            "stars": 60,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:05:52.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "dennisrotondi/FunGraph",
           "description": ", github IROS25 FunGraph: Functionality Aware 3D Scene Graphs for Language-Prompted Scene Interaction UniStuttgart",
           "children": [],
@@ -3667,6 +3667,27 @@
               "3d-scene-understanding",
               "robotics"
             ]
+          },
+          "first_seen": "2026-08-29T00:05:52.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ZhangCYG/OpenFunGraph",
+          "description": ", github CVPR25 Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces ETH",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1007609163,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-06-24T09:05:29Z",
+            "open_issues": 0,
+            "owner": "ZhangCYG",
+            "repo": "OpenFunGraph",
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
         },
@@ -3753,6 +3774,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "brdsdsu/Yggdrasil",
+          "description": ", github arXiv26 Yggdrasil: a Layer-First 3D Scene Graph for Real-Time Querying SDSU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1064232473,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-09T01:57:56Z",
+            "open_issues": 10,
+            "owner": "brdsdsu",
+            "repo": "Yggdrasil",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-10-12T22:35:16.940Z"
         },
         {
           "node_type": "item",
@@ -3932,7 +3974,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-08-27T07:49:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
             "stars": 67,
@@ -4029,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:56:34.318Z",
+    "last_updated": "2026-11-09T23:50:53.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4037,8 +4079,8 @@
       "id": 863061031,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-16T12:31:30Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-09T18:45:48Z",
+      "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
       "stars": 182,
@@ -4051,7 +4093,7 @@
         "robotics"
       ]
     },
-    "original_repository_sha": "5d814a39bc2dd064fe2b9f2e8bbb68f172fd481d",
+    "original_repository_sha": "bb9150977463a9fd0f10a16f0d26597ebe20b80a",
     "enhanced_repository": "enhansome/enhansome-3D-scene-graphs",
     "enhanced_repository_description": null,
     "title": "Awesome 3D Scene Graphs with stars"
