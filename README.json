@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2145,
+            "stars": 2147,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1191,7 +1191,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1380,7 +1380,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2830,7 +2830,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2935,7 +2935,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -3093,7 +3093,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3302,7 +3302,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:50:53.586Z",
+    "last_updated": "2026-11-10T21:25:07.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
