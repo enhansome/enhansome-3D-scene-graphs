@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 991,
+            "stars": 992,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -237,7 +237,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -336,7 +336,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -481,7 +481,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-11T13:12:25Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
             "stars": 89,
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -1191,7 +1191,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1198,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1380,7 +1380,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1198,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 991,
+            "stars": 992,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1610,7 +1610,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -1709,7 +1709,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1987,7 +1987,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-12-11T13:12:25Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
             "stars": 89,
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2680,7 +2680,7 @@
             "open_issues": 1,
             "owner": "perceptica-robotics",
             "repo": "Hickory",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -2830,7 +2830,7 @@
             "open_issues": 27,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1195,
+            "stars": 1198,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2935,7 +2935,7 @@
             "open_issues": 0,
             "owner": "Hbelief1998",
             "repo": "Functional-SLAM-CoRL_2026",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -3093,7 +3093,7 @@
             "open_issues": 16,
             "owner": "hovsg",
             "repo": "HOV-SG",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "3d-scene-graph",
               "natural-language-understanding",
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3344,7 +3344,7 @@
             "open_issues": 1,
             "owner": "perceptica-robotics",
             "repo": "Hickory",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-10-05T22:10:24.001Z"
@@ -3535,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 991,
+            "stars": 992,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:54:31.699Z",
+    "last_updated": "2026-11-13T21:36:18.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4079,7 +4079,7 @@
       "id": 863061031,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-09T18:45:48Z",
+      "last_commit": "2026-11-13T15:04:40Z",
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
@@ -4093,7 +4093,7 @@
         "robotics"
       ]
     },
-    "original_repository_sha": "bb9150977463a9fd0f10a16f0d26597ebe20b80a",
+    "original_repository_sha": "c60c0c24efc40de83293bd140c9e0b9bd02f8eac",
     "enhanced_repository": "enhansome/enhansome-3D-scene-graphs",
     "enhanced_repository_description": null,
     "title": "Awesome 3D Scene Graphs with stars"
