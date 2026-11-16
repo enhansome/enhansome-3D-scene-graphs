@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "MIT-SPARK",
             "repo": "LP2",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "dsg",
               "human",
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-14T16:10:54Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-16T16:17:31Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1199,
+            "stars": 1201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-14T16:10:54Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-16T16:17:31Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1199,
+            "stars": 1201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1679,7 +1679,7 @@
             "open_issues": 0,
             "owner": "MIT-SPARK",
             "repo": "LP2",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "dsg",
               "human",
@@ -1990,7 +1990,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-14T16:10:54Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-16T16:17:31Z",
+            "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1199,
+            "stars": 1201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2973,7 +2973,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T01:57:56Z",
+            "last_commit": "2026-11-16T01:57:46Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3403,7 +3403,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T01:57:56Z",
+            "last_commit": "2026-11-16T01:57:46Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3535,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3787,7 +3787,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T01:57:56Z",
+            "last_commit": "2026-11-16T01:57:46Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:32:52.439Z",
+    "last_updated": "2026-11-16T23:50:05.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
