@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 994,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -530,7 +530,7 @@
             "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-16T16:17:31Z",
+            "last_commit": "2026-11-17T20:32:14Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1201,
+            "stars": 1202,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-16T16:17:31Z",
+            "last_commit": "2026-11-17T20:32:14Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1201,
+            "stars": 1202,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 994,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2011,7 +2011,7 @@
             "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-16T16:17:31Z",
+            "last_commit": "2026-11-17T20:32:14Z",
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1201,
+            "stars": 1202,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3535,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 994,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3977,7 +3977,7 @@
             "open_issues": 3,
             "owner": "egeozsoy",
             "repo": "MM-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:50:05.264Z",
+    "last_updated": "2026-11-17T23:08:25.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4083,7 +4083,7 @@
       "open_issues": 0,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 182,
+      "stars": 183,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
