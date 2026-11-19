@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "4d",
@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -166,7 +166,7 @@
             "open_issues": 4,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "4d",
@@ -264,7 +264,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 269,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 90,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2148,
+            "stars": 2147,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1233,7 +1233,7 @@
             "open_issues": 4,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "4d",
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1469,7 +1469,7 @@
             "open_issues": 4,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "4d",
@@ -1637,7 +1637,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 269,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1990,7 +1990,7 @@
             "open_issues": 0,
             "owner": "GeLuzhou",
             "repo": "Dynamic-GSG",
-            "stars": 90,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2739,8 +2739,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T14:10:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T17:43:34Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -2973,7 +2973,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T01:57:46Z",
+            "last_commit": "2026-11-18T23:31:45Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3361,8 +3361,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T14:10:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T17:43:34Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -3403,7 +3403,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T01:57:46Z",
+            "last_commit": "2026-11-18T23:31:45Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3535,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3766,8 +3766,8 @@
             "id": 1296632387,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T14:10:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T17:43:34Z",
+            "open_issues": 0,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "semantic_scene_forests",
             "stars": 3,
@@ -3787,7 +3787,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T01:57:46Z",
+            "last_commit": "2026-11-18T23:31:45Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3881,7 +3881,7 @@
             "open_issues": 4,
             "owner": "egeozsoy",
             "repo": "4D-OR",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "4d",
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:41:44.134Z",
+    "last_updated": "2026-11-19T22:45:19.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
