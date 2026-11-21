@@ -432,7 +432,7 @@
             "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "3d-scene-understanding",
               "bcai",
@@ -1547,7 +1547,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1938,7 +1938,7 @@
             "open_issues": 6,
             "owner": "boschresearch",
             "repo": "RelationField",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "3d-scene-understanding",
               "bcai",
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2977,7 +2977,7 @@
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -3072,7 +3072,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3407,7 +3407,7 @@
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -3577,7 +3577,7 @@
             "open_issues": 0,
             "owner": "robot-learning-freiburg",
             "repo": "MoMa-LLM",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3791,7 +3791,7 @@
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-10-12T22:35:16.940Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:20:28.182Z",
+    "last_updated": "2026-11-21T21:07:06.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
@@ -4083,7 +4083,7 @@
       "open_issues": 1,
       "owner": "dennisrotondi",
       "repo": "awesome-3D-scene-graphs",
-      "stars": 183,
+      "stars": 184,
       "topics": [
         "3d-scene-graph",
         "3d-scene-understanding",
