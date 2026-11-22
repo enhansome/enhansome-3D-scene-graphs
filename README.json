@@ -264,7 +264,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 270,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1191,7 +1191,7 @@
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1205,
+            "stars": 1206,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1380,7 +1380,7 @@
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1205,
+            "stars": 1206,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 11,
             "owner": "MIT-SPARK",
             "repo": "Clio",
-            "stars": 270,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1845,7 +1845,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2830,7 +2830,7 @@
             "open_issues": 29,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1205,
+            "stars": 1206,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3169,7 +3169,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3640,7 +3640,7 @@
             "open_issues": 5,
             "owner": "BJHYZJ",
             "repo": "DovSG",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:07:06.341Z",
+    "last_updated": "2026-11-22T21:15:09.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
