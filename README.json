@@ -1042,7 +1042,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 330,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,8 +1187,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T17:12:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-24T01:17:35Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1206,
@@ -1376,8 +1376,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T17:12:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-24T01:17:35Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1206,
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2826,8 +2826,8 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T17:12:34Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-24T01:17:35Z",
+            "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
             "stars": 1206,
@@ -2973,7 +2973,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:31:45Z",
+            "last_commit": "2026-11-23T01:58:11Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3403,7 +3403,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:31:45Z",
+            "last_commit": "2026-11-23T01:58:11Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3707,7 +3707,7 @@
             "open_issues": 0,
             "owner": "rms0329",
             "repo": "Event-Driven-Storytelling",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3787,7 +3787,7 @@
             "id": 1064232473,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:31:45Z",
+            "last_commit": "2026-11-23T01:58:11Z",
             "open_issues": 10,
             "owner": "brdsdsu",
             "repo": "Yggdrasil",
@@ -3839,7 +3839,7 @@
             "open_issues": 8,
             "owner": "StanfordVL",
             "repo": "3DSceneGraph",
-            "stars": 330,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:15:09.717Z",
+    "last_updated": "2026-11-24T02:33:55.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
