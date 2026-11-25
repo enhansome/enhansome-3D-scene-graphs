@@ -195,7 +195,7 @@
             "open_issues": 0,
             "owner": "BIT-DYN",
             "repo": "OpenGraph",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -915,7 +915,7 @@
             "open_issues": 1,
             "owner": "yyyyangyi",
             "repo": "PUF",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "scene-graph",
               "uncertainty"
@@ -1063,7 +1063,7 @@
             "open_issues": 1,
             "owner": "3DSSG",
             "repo": "3DSSG.github.io",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1112,7 +1112,7 @@
             "open_issues": 2,
             "owner": "ShunChengWu",
             "repo": "SceneGraphFusion",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "real-time",
               "scene-graph",
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T22:57:19Z",
+            "last_commit": "2026-11-25T23:40:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1208,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T22:57:19Z",
+            "last_commit": "2026-11-25T23:40:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1208,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1589,7 +1589,7 @@
             "open_issues": 0,
             "owner": "BIT-DYN",
             "repo": "OpenGraph",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2526,7 +2526,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2806,7 +2806,7 @@
             "open_issues": 1,
             "owner": "yyyyangyi",
             "repo": "PUF",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "scene-graph",
               "uncertainty"
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T22:57:19Z",
+            "last_commit": "2026-11-25T23:40:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1208,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3302,7 +3302,7 @@
             "open_issues": 1,
             "owner": "ylwhxht",
             "repo": "MSGNav",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3860,7 +3860,7 @@
             "open_issues": 1,
             "owner": "3DSSG",
             "repo": "3DSSG.github.io",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:05:52.656Z",
+    "last_updated": "2026-11-25T23:46:39.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
