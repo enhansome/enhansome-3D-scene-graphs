@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1187,11 +1187,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T01:17:35Z",
+            "last_commit": "2026-11-24T22:57:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1206,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1376,11 +1376,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T01:17:35Z",
+            "last_commit": "2026-11-24T22:57:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1206,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-SG",
-            "stars": 103,
+            "stars": 102,
             "topics": [
               "collaborative-slam",
               "lidar-slam",
@@ -1448,7 +1448,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2083,7 +2083,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -2826,11 +2826,11 @@
             "id": 489133187,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-24T01:17:35Z",
+            "last_commit": "2026-11-24T22:57:19Z",
             "open_issues": 28,
             "owner": "MIT-SPARK",
             "repo": "Hydra",
-            "stars": 1206,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -2956,7 +2956,7 @@
             "open_issues": 2,
             "owner": "insait-institute",
             "repo": "GraphWrit3R",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-09-29T20:12:25.057Z"
@@ -3046,7 +3046,7 @@
             "open_issues": 1,
             "owner": "robot-learning-freiburg",
             "repo": "CURB-SG",
-            "stars": 103,
+            "stars": 102,
             "topics": [
               "collaborative-slam",
               "lidar-slam",
@@ -3190,7 +3190,7 @@
             "open_issues": 35,
             "owner": "bagh2178",
             "repo": "UniGoal",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "3d-scene-graph",
               "cvpr2025",
@@ -3535,7 +3535,7 @@
             "open_issues": 24,
             "owner": "concept-graphs",
             "repo": "concept-graphs",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3556,7 +3556,7 @@
             "open_issues": 0,
             "owner": "Jianghanxiao",
             "repo": "RoboEXP",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -3598,7 +3598,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "DELTA",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:52.074Z"
@@ -4071,7 +4071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:33:55.502Z",
+    "last_updated": "2026-11-25T00:05:52.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!",
